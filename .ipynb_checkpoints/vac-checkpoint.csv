@@ -1,0 +1,1001 @@
+Gender,Age,Education,Income,Income2,Occupation,State,Relationship.Status,Obligation,Obligation2,NEP,Vacation.Behaviour,rest and relax,luxury / be spoilt,do sports,"excitement, a challenge",not exceed planned budget,realise creativity,fun and entertainment,good company,health and beauty,free-and-easy-going,entertainment facilities,not care about prices,life style of the local people,intense experience of nature,cosiness/familiar atmosphere,maintain unspoilt surroundings,everything organised,unspoilt nature/natural landscape,cultural offers,change of surroundings
+Female,25,6,"$30,001 to $60,000",30-60k,Clerical or service worker,VIC,single,4.8,Q4,3.2,2.066666667,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,31,8,"$120,001 to $150,000",>120k,professional,WA,married,3.3,Q1,3.4,2,yes,yes,no,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,yes
+Male,21,3,"$90,001 to $120,000",90-120k,NA,NSW,single,3.4,Q2,3.066666667,1.233333333,yes,no,no,no,no,no,no,no,no,no,no,yes,yes,no,yes,no,no,no,yes,no
+Female,18,2,"$30,001 to $60,000",30-60k,unemployed,NSW,single,2.633333333,Q1,3.4,2.166666667,yes,yes,no,no,yes,no,yes,yes,no,no,yes,no,no,yes,no,no,no,no,no,yes
+Male,61,3,"Less than $30,000",<30k,retired,WA,married,3.4,Q2,3.733333333,1.724137931,yes,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,no
+Female,63,7,"$30,001 to $60,000",30-60k,retired,QLD,married,4.4,Q4,4.266666667,3.3,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,yes,no,no,no,no,no
+Male,58,2,"Less than $30,000",<30k,retired,Tas,separated or divorced,3.433333333,Q2,3.266666667,3.666666667,yes,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no,yes,yes,no,no,yes
+Male,41,8,"$30,001 to $60,000",30-60k,manager or administrator,VIC,living with a partner,4.266666667,Q4,4.266666667,3.235294118,yes,yes,yes,yes,yes,no,yes,no,no,no,no,yes,yes,no,no,yes,no,yes,yes,yes
+Female,36,8,"$90,001 to $120,000",90-120k,manager or administrator,NSW,separated or divorced,3.7,Q2,2.933333333,2.740740741,yes,yes,no,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,no,yes,no,no,yes
+Female,56,2,"$30,001 to $60,000",30-60k,retired,NSW,married,4.166666667,Q3,3.6,2.75,yes,no,no,no,no,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes
+Male,30,8,"$120,001 to $150,000",>120k,professional,VIC,living with a partner,4.133333333,Q3,3.6,2.933333333,yes,no,yes,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Male,40,6,"$120,001 to $150,000",>120k,manager or administrator,NSW,living with a partner,4.333333333,Q4,3.933333333,3.172413793,yes,no,no,no,no,no,yes,yes,no,no,no,yes,yes,no,no,yes,no,no,no,yes
+Female,75,4,"Less than $30,000",<30k,retired,SA,widowed,4.066666667,Q3,4.066666667,3.466666667,yes,yes,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,yes,yes,yes,yes,no,no
+Female,50,7,"Less than $30,000",<30k,unemployed,NSW,separated or divorced,4.666666667,Q4,4.2,3.714285714,yes,yes,no,no,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,no,yes,yes,yes
+Male,62,3,"Less than $30,000",<30k,sales,WA,married,4.133333333,Q3,3.933333333,3.074074074,yes,yes,no,yes,yes,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,yes,yes
+Male,33,3,"Less than $30,000",<30k,professional,WA,separated or divorced,3.633333333,Q2,4.133333333,2,yes,no,no,no,yes,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,no,no
+Female,55,1,"$30,001 to $60,000",30-60k,sales,VIC,married,3.3,Q1,4.133333333,3.5,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,yes,no,yes,no,no,no,no,no
+Male,51,8,"$90,001 to $120,000",90-120k,professional,NSW,single,3.933333333,Q3,4.2,3.461538462,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,yes
+Male,69,7,"$120,001 to $150,000",>120k,professional,VIC,married,4.066666667,Q3,3.666666667,2.592592593,yes,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,no
+Male,23,6,"Less than $30,000",<30k,unemployed,QLD,single,3.866666667,Q3,3.133333333,3.733333333,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no
+Male,42,6,"$60,001 to $90,000",60-90k,tradesperson,NSW,married,3.633333333,Q2,3.6,1.966666667,yes,no,no,no,no,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes
+Female,35,7,"$90,001 to $120,000",90-120k,manager or administrator,VIC,living with a partner,3.8,Q2,4.666666667,2.966666667,yes,no,no,no,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,no,yes,no,yes
+Male,33,7,"$90,001 to $120,000",90-120k,manager or administrator,VIC,single,4.6,Q4,4.133333333,4,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes
+Female,37,1,NA,NA,professional,VIC,living with a partner,4.5,Q4,3.4,2.833333333,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no
+Male,57,6,"$60,001 to $90,000",60-90k,professional,SA,married,4.433333333,Q4,4.266666667,2.653846154,yes,no,no,no,yes,no,no,yes,no,yes,no,no,yes,no,no,yes,no,yes,yes,no
+Male,45,6,"$60,001 to $90,000",60-90k,manager or administrator,NSW,married,3.066666667,Q1,2.933333333,2.3,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Female,26,7,NA,NA,professional,VIC,living with a partner,4.366666667,Q4,3.4,3.44,yes,yes,no,yes,no,no,yes,no,no,yes,yes,yes,no,no,no,no,yes,no,no,no
+Male,42,7,"$90,001 to $120,000",90-120k,manager or administrator,VIC,married,3.333333333,Q1,4.2,1.8,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes
+Male,27,7,"$30,001 to $60,000",30-60k,professional,VIC,single,3.666666667,Q2,3.6,2.277777778,no,no,yes,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Male,43,8,"$90,001 to $120,000",90-120k,professional,WA,married,3.766666667,Q2,3.466666667,3.142857143,yes,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,no
+Male,41,7,"$90,001 to $120,000",90-120k,manager or administrator,QLD,married,3.7,Q2,3.066666667,2.533333333,yes,yes,yes,no,yes,no,yes,yes,no,yes,no,no,no,no,no,yes,no,yes,no,yes
+Female,37,7,"$60,001 to $90,000",60-90k,manager or administrator,VIC,married,4.033333333,Q3,4.266666667,2.933333333,yes,no,no,no,no,no,yes,yes,yes,yes,no,no,yes,yes,no,yes,no,yes,no,yes
+Male,38,7,"$180,001 to $210,000",>120k,manager or administrator,NSW,married,2.933333333,Q1,3.2,2.366666667,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,no,no,no,no,yes,yes,no,no,yes,yes
+Female,39,8,"$30,001 to $60,000",30-60k,professional,NSW,single,3.6,Q2,3.666666667,3.366666667,yes,no,no,no,no,no,no,no,no,yes,no,no,yes,yes,no,yes,no,yes,yes,yes
+Male,22,3,"$120,001 to $150,000",>120k,Clerical or service worker,ACT,single,4.633333333,Q4,4.4,3.866666667,yes,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no
+Male,48,8,NA,NA,small business owner,QLD,married,3.3,Q1,2.933333333,2.1,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes
+Male,56,8,"$90,001 to $120,000",90-120k,manager or administrator,NSW,married,3.166666667,Q1,3.133333333,2.233333333,yes,yes,no,no,yes,no,yes,no,no,yes,yes,no,no,no,no,no,yes,no,no,yes
+Male,70,8,"$60,001 to $90,000",60-90k,professional,NSW,living with a partner,4,Q3,3.133333333,2.875,yes,yes,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes
+Male,25,4,"$120,001 to $150,000",>120k,manager or administrator,NSW,single,2.266666667,Q1,3.066666667,2.379310345,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no
+Male,58,4,"$180,001 to $210,000",>120k,small business owner,NSW,married,3.233333333,Q1,2.866666667,3,yes,yes,yes,no,yes,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,no,yes
+Female,27,8,"$90,001 to $120,000",90-120k,NA,NSW,living with a partner,3.933333333,Q3,3.533333333,2.352941176,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,yes,no,yes
+Female,25,6,"$60,001 to $90,000",60-90k,professional,NSW,living with a partner,3.766666667,Q2,4.2,3.714285714,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,yes,yes,yes,no,no,no,yes,yes
+Male,38,3,"$90,001 to $120,000",90-120k,manager or administrator,QLD,living with a partner,3.733333333,Q2,3.933333333,2.25,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes
+Female,37,7,"$90,001 to $120,000",90-120k,manager or administrator,SA,living with a partner,3.4,Q2,3.6,1.766666667,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Male,18,7,NA,NA,NA,QLD,single,3.966666667,Q3,3.733333333,3.157894737,yes,yes,yes,yes,no,no,yes,yes,yes,yes,no,no,yes,yes,yes,yes,no,yes,yes,yes
+Male,35,7,"$120,001 to $150,000",>120k,professional,NSW,living with a partner,3.833333333,Q3,3.6,2.772727273,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,yes
+Female,36,7,"$90,001 to $120,000",90-120k,home-duties,NSW,married,3.866666667,Q3,4.533333333,3.571428571,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,no,yes,no,yes,yes,yes
+Female,34,4,"$60,001 to $90,000",60-90k,Clerical or service worker,SA,married,3.2,Q1,3.2,2.315789474,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,yes
+Female,45,7,"$60,001 to $90,000",60-90k,professional,NSW,married,3.433333333,Q2,3.466666667,2.5,yes,yes,no,yes,yes,no,yes,no,yes,yes,no,no,no,yes,no,no,no,no,no,yes
+Male,69,2,"$30,001 to $60,000",30-60k,manager or administrator,NSW,separated or divorced,3.366666667,Q1,4.333333333,3.074074074,yes,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes
+Male,28,6,"$60,001 to $90,000",60-90k,manager or administrator,NSW,living with a partner,3.633333333,Q2,2.866666667,3.2,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,yes
+Male,28,2,"$60,001 to $90,000",60-90k,manager or administrator,NSW,living with a partner,3.133333333,Q1,3,2.652173913,yes,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes
+Female,32,3,"more than $240,001",>120k,manager or administrator,QLD,single,3.7,Q2,3.666666667,3.578947368,yes,no,no,no,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,yes,yes,yes
+Male,46,6,"$30,001 to $60,000",30-60k,manager or administrator,NT,living with a partner,4.433333333,Q4,4,3.827586207,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+Male,20,7,"$30,001 to $60,000",30-60k,sales,VIC,single,3.833333333,Q3,3.666666667,2.482758621,yes,no,no,no,no,no,yes,yes,no,no,no,no,yes,no,yes,no,no,no,no,yes
+Female,56,8,NA,NA,professional,QLD,married,4.2,Q3,4.2,3.615384615,yes,no,no,no,yes,no,yes,yes,no,no,no,no,yes,no,no,yes,no,no,yes,no
+Male,57,8,"$60,001 to $90,000",60-90k,professional,VIC,separated or divorced,3.133333333,Q1,2.8,4.444444444,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,yes
+Male,64,6,"$30,001 to $60,000",30-60k,retired,NSW,separated or divorced,4.533333333,Q4,4.133333333,3.733333333,yes,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,yes,yes,yes,no,yes
+Female,23,7,NA,NA,sales,NSW,living with a partner,3.833333333,Q3,3.866666667,2.633333333,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,yes,yes,yes
+Female,62,7,"$60,001 to $90,000",60-90k,Clerical or service worker,SA,living with a partner,3.8,Q2,3.133333333,2.8,yes,yes,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,yes,yes
+Male,54,8,"$150,001 to $180,000",>120k,professional,QLD,married,3.533333333,Q2,3.133333333,3.16,yes,no,yes,yes,yes,no,no,no,no,no,no,yes,no,yes,no,yes,no,no,no,no
+Male,68,4,"Less than $30,000",<30k,retired,VIC,living with a partner,3.466666667,Q2,3.933333333,3.034482759,yes,no,no,no,no,no,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,yes
+Female,55,2,"$90,001 to $120,000",90-120k,home-duties,NSW,married,3.833333333,Q3,4.6,2.586206897,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no
+Male,62,7,"$90,001 to $120,000",90-120k,professional,VIC,married,3.833333333,Q3,4.466666667,3.285714286,yes,yes,yes,yes,no,yes,no,no,yes,no,no,yes,yes,no,no,no,no,no,no,yes
+Female,51,7,"$30,001 to $60,000",30-60k,Clerical or service worker,ACT,living with a partner,1.733333333,Q1,2.666666667,3,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no
+Female,60,2,"$30,001 to $60,000",30-60k,home-duties,SA,living with a partner,4.333333333,Q4,3.6,4.117647059,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,no,no,yes,no,no,yes,no,yes
+Female,30,7,"$90,001 to $120,000",90-120k,professional,WA,married,3.566666667,Q2,3.866666667,1.866666667,yes,yes,no,no,no,no,yes,yes,no,no,no,no,yes,no,yes,no,no,yes,no,no
+Female,62,1,"Less than $30,000",<30k,home-duties,VIC,married,4.1,Q3,4,3.714285714,yes,no,no,no,yes,no,yes,no,yes,yes,no,no,no,yes,no,no,no,no,no,yes
+Male,48,1,NA,NA,small business owner,NSW,married,3.5,Q2,3.266666667,3.045454545,yes,no,no,no,yes,no,yes,no,no,yes,no,no,yes,no,no,yes,yes,no,no,yes
+Male,54,1,"$30,001 to $60,000",30-60k,transport worker,NSW,married,3.766666667,Q2,3.933333333,2.566666667,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,no
+Female,34,2,"$90,001 to $120,000",90-120k,small business owner,NSW,married,3.333333333,Q1,2.866666667,2.925925926,yes,yes,no,no,no,no,yes,no,yes,yes,yes,yes,no,no,no,no,yes,no,no,no
+Female,29,7,"$90,001 to $120,000",90-120k,professional,NSW,married,4.333333333,Q4,3.866666667,2.392857143,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,yes,yes,yes,yes,no,no,no,yes
+Male,66,NA,NA,NA,NA,QLD,married,3.866666667,Q3,3.8,2.625,no,yes,no,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no
+Female,58,4,"$120,001 to $150,000",>120k,retired,NSW,married,4.566666667,Q4,3.8,3.066666667,yes,no,no,no,yes,no,yes,yes,no,no,no,no,yes,yes,no,no,no,no,no,yes
+Male,36,3,"$60,001 to $90,000",60-90k,professional,WA,married,3.433333333,Q2,3.6,3.32,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Male,28,6,"Less than $30,000",<30k,labourer,VIC,single,3,Q1,3.4,3.8,yes,yes,yes,no,no,no,yes,yes,no,yes,no,yes,yes,yes,no,yes,no,yes,yes,yes
+Male,55,6,"$30,001 to $60,000",30-60k,professional,NSW,separated or divorced,3.8,Q2,3.533333333,1.551724138,yes,yes,no,no,no,no,yes,no,no,yes,yes,yes,yes,no,yes,no,no,yes,no,yes
+Female,36,3,"$90,001 to $120,000",90-120k,Clerical or service worker,VIC,living with a partner,4.466666667,Q4,3.733333333,2.846153846,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Male,33,4,"Less than $30,000",<30k,manager or administrator,WA,single,3.333333333,Q1,3.4,3.363636364,yes,yes,no,no,yes,no,yes,yes,no,yes,no,no,no,no,no,no,yes,no,no,no
+Male,35,8,"more than $240,001",>120k,manager or administrator,VIC,single,4.066666667,Q3,3.933333333,3.466666667,yes,yes,yes,no,no,no,yes,no,yes,yes,yes,yes,no,no,no,no,yes,no,no,no
+Male,18,6,NA,NA,NA,NSW,single,4,Q3,2.8,2.631578947,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,65,6,"$30,001 to $60,000",30-60k,retired,VIC,married,4.2,Q3,3.666666667,2.653846154,yes,no,no,no,no,no,yes,no,no,yes,no,yes,yes,no,no,no,no,no,no,yes
+Male,25,6,"$60,001 to $90,000",60-90k,labourer,NSW,married,4,Q3,3.533333333,2.928571429,yes,yes,yes,yes,yes,no,yes,no,no,no,yes,no,no,yes,yes,yes,yes,yes,yes,yes
+Female,31,3,"$60,001 to $90,000",60-90k,small business owner,QLD,married,4.566666667,Q4,3.8,3.47826087,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,37,2,"$60,001 to $90,000",60-90k,sales,QLD,married,4.2,Q3,3.266666667,2.3,yes,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no
+Male,33,6,"$60,001 to $90,000",60-90k,professional,QLD,married,4.133333333,Q3,3.8,2.733333333,yes,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,yes
+Male,59,NA,NA,NA,NA,WA,married,3.8,Q2,4.133333333,2.966666667,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,no,yes,yes,yes
+Female,64,4,"Less than $30,000",<30k,transport worker,VIC,widowed,4.5,Q4,3.2,3.083333333,yes,no,no,yes,yes,no,yes,yes,no,yes,no,no,yes,no,yes,yes,no,yes,no,yes
+Female,35,6,"$30,001 to $60,000",30-60k,home-duties,WA,married,3.266666667,Q1,2.666666667,2.137931034,yes,no,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,no,no,no,no,no,yes
+Male,37,2,"$60,001 to $90,000",60-90k,labourer,QLD,married,3.966666667,Q3,3.4,3.214285714,yes,yes,no,no,yes,no,yes,no,no,yes,no,no,yes,no,no,no,yes,no,no,yes
+Male,76,NA,"$150,001 to $180,000",>120k,professional,Tas,married,3.3,Q1,3.333333333,1.533333333,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Male,55,8,"$120,001 to $150,000",>120k,professional,VIC,married,3.166666667,Q1,3.866666667,2.933333333,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes
+Male,54,8,"$150,001 to $180,000",>120k,professional,NSW,living with a partner,4.5,Q4,4.4,3.958333333,yes,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,yes,no,no,yes,no,yes,yes
+Male,49,1,"$90,001 to $120,000",90-120k,manager or administrator,VIC,married,3.633333333,Q2,3.333333333,2.344827586,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,yes,no,no,no,no,yes,yes,no
+Female,55,7,"$90,001 to $120,000",90-120k,home-duties,VIC,married,3.266666667,Q1,4,2.15,yes,no,no,no,no,no,yes,yes,no,yes,no,yes,yes,no,no,no,no,no,yes,yes
+Male,63,2,"$30,001 to $60,000",30-60k,retired,NSW,married,3.466666667,Q2,3.333333333,2.157894737,no,no,no,yes,yes,no,yes,yes,no,yes,no,no,yes,no,no,yes,no,no,no,yes
+Female,69,4,"Less than $30,000",<30k,retired,VIC,widowed,3.766666667,Q2,4,2.75862069,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,no,yes,yes,no
+Female,46,4,"Less than $30,000",<30k,professional,NSW,single,4.233333333,Q4,4.266666667,4.125,yes,no,yes,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,no,yes,no,yes
+Female,61,2,"Less than $30,000",<30k,manager or administrator,NSW,separated or divorced,3.833333333,Q3,3.066666667,3,yes,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no
+Male,28,7,"Less than $30,000",<30k,manager or administrator,NSW,living with a partner,3.733333333,Q2,3.933333333,2.8,no,no,yes,no,no,no,no,yes,no,no,no,yes,no,no,no,yes,no,no,no,no
+Female,33,7,"$60,001 to $90,000",60-90k,professional,NSW,single,4.466666667,Q4,3.8,3.266666667,yes,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,no,yes,no,no,no,yes
+Female,30,3,"$60,001 to $90,000",60-90k,Clerical or service worker,VIC,married,3.6,Q2,3.8,3.333333333,yes,yes,no,no,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,yes
+Male,50,7,"$60,001 to $90,000",60-90k,professional,SA,single,4.033333333,Q3,2.933333333,3.08,no,no,no,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,no,no,no,yes,yes
+Male,23,7,"$60,001 to $90,000",60-90k,professional,VIC,single,3.933333333,Q3,4.133333333,2.37037037,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes
+Female,58,1,"Less than $30,000",<30k,home-duties,NSW,separated or divorced,4.033333333,Q3,3.066666667,1.733333333,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+Female,35,8,"$60,001 to $90,000",60-90k,professional,WA,married,3.066666667,Q1,3.466666667,NA,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,22,6,"$60,001 to $90,000",60-90k,sales,VIC,single,2.933333333,Q1,2.333333333,2.652173913,yes,no,no,yes,yes,no,yes,yes,no,yes,no,no,yes,yes,no,no,no,no,yes,yes
+Male,39,3,"$60,001 to $90,000",60-90k,tradesperson,QLD,married,3.966666667,Q3,3.933333333,2.866666667,yes,yes,no,yes,yes,no,yes,no,no,yes,no,no,yes,no,no,yes,no,no,yes,yes
+Female,35,3,"$30,001 to $60,000",30-60k,professional,NSW,living with a partner,4.2,Q3,3.666666667,2.1,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,21,7,"$90,001 to $120,000",90-120k,sales,NSW,single,3.433333333,Q2,4.133333333,2.148148148,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,yes,yes,yes,yes
+Male,62,8,"$60,001 to $90,000",60-90k,professional,VIC,married,3.633333333,Q2,2.933333333,2.571428571,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,yes,no,no,no,yes
+Male,24,8,"$120,001 to $150,000",>120k,professional,NSW,single,3.266666667,Q1,3.4,2.294117647,yes,yes,no,yes,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,yes
+Male,49,4,"$30,001 to $60,000",30-60k,Clerical or service worker,NSW,married,4.1,Q3,3,3.576923077,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,yes
+Female,41,1,"$30,001 to $60,000",30-60k,sales,SA,married,4.133333333,Q3,4.333333333,3.172413793,yes,yes,no,yes,no,no,yes,no,no,yes,yes,yes,yes,no,no,yes,no,no,no,yes
+Male,21,6,"$30,001 to $60,000",30-60k,unemployed,NSW,single,3.6,Q2,4.066666667,2.928571429,yes,no,no,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,no
+Male,37,6,"$60,001 to $90,000",60-90k,labourer,SA,married,1,Q1,5,2.033333333,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Female,28,6,"$60,001 to $90,000",60-90k,professional,ACT,married,3.966666667,Q3,3.333333333,2.3,yes,yes,no,yes,yes,no,yes,yes,no,yes,no,no,no,no,yes,no,no,no,no,no
+Male,59,8,"$150,001 to $180,000",>120k,professional,SA,single,3.866666667,Q3,3.6,1.851851852,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,37,7,"$150,001 to $180,000",>120k,manager or administrator,NSW,married,3.666666667,Q2,3.733333333,2.727272727,yes,yes,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,yes,no,no,yes,no
+Female,31,6,"$60,001 to $90,000",60-90k,Clerical or service worker,NSW,married,3.933333333,Q3,4.266666667,3.227272727,yes,yes,no,yes,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no
+Male,59,6,"$30,001 to $60,000",30-60k,retired,NSW,married,4.066666667,Q3,3.4,3.25,yes,no,no,yes,yes,no,no,yes,no,no,no,no,yes,yes,no,no,yes,no,no,yes
+Female,42,3,"$30,001 to $60,000",30-60k,Clerical or service worker,WA,married,3.133333333,Q1,3.266666667,2.541666667,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,yes,no,no,no,no,no,no,no
+Female,52,2,"$30,001 to $60,000",30-60k,small business owner,ACT,married,4.1,Q3,4.2,2.714285714,yes,no,no,no,no,yes,yes,no,yes,yes,no,no,no,yes,yes,yes,no,yes,no,yes
+Female,61,1,"Less than $30,000",<30k,labourer,WA,separated or divorced,4.733333333,Q4,4.6,3.875,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Female,60,3,"Less than $30,000",<30k,home-duties,SA,married,4.366666667,Q4,4.2,3.888888889,yes,no,no,no,yes,no,no,yes,yes,yes,no,no,yes,yes,yes,yes,no,no,no,yes
+Male,30,7,"$60,001 to $90,000",60-90k,professional,WA,married,3.833333333,Q3,3.2,2.793103448,yes,yes,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,yes,yes,no,yes
+Female,35,7,"$30,001 to $60,000",30-60k,sales,VIC,single,2.266666667,Q1,3.266666667,2.346153846,yes,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,yes
+Male,39,7,"$30,001 to $60,000",30-60k,professional,WA,single,3.066666667,Q1,4.066666667,2.416666667,yes,no,no,no,no,no,no,yes,no,yes,no,yes,no,no,no,no,no,no,no,no
+Male,36,8,"$90,001 to $120,000",90-120k,manager or administrator,WA,married,2,Q1,2.466666667,1.6,yes,no,no,no,yes,no,yes,yes,no,no,yes,no,yes,no,no,no,no,no,yes,yes
+Male,25,7,"$60,001 to $90,000",60-90k,professional,NSW,married,3.9,Q3,4.333333333,3.033333333,yes,no,yes,no,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes
+Female,31,1,"Less than $30,000",<30k,home-duties,VIC,living with a partner,4.3,Q4,3.4,3,yes,no,no,no,yes,no,no,yes,no,yes,no,no,yes,no,no,yes,no,no,no,yes
+Male,35,8,"$60,001 to $90,000",60-90k,professional,QLD,married,3.766666667,Q2,3.6,1.833333333,yes,no,no,yes,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes
+Male,40,8,"$60,001 to $90,000",60-90k,professional,QLD,married,4.1,Q3,3.933333333,2.866666667,yes,no,yes,yes,no,no,yes,no,no,no,no,no,yes,no,no,no,yes,no,no,yes
+Male,58,1,"Less than $30,000",<30k,retired,QLD,married,4.966666667,Q4,4.266666667,3.678571429,yes,no,no,yes,yes,yes,yes,yes,yes,no,yes,no,no,no,yes,yes,yes,yes,no,yes
+Female,65,3,"Less than $30,000",<30k,retired,NSW,married,2.566666667,Q1,4.466666667,2,yes,yes,no,no,yes,no,yes,yes,yes,yes,no,no,no,no,no,no,yes,no,no,yes
+Male,59,4,"$210,001 to $240,000",>120k,manager or administrator,NSW,married,2.8,Q1,2.6,2.222222222,no,no,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,yes
+Female,41,3,"$60,001 to $90,000",60-90k,home-duties,QLD,married,3.533333333,Q2,3.4,3,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,yes
+Female,45,1,"$30,001 to $60,000",30-60k,home-duties,SA,separated or divorced,4.233333333,Q4,4.066666667,3.5,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Female,49,1,"$60,001 to $90,000",60-90k,sales,WA,living with a partner,3.666666667,Q2,3.466666667,NA,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no
+Female,23,7,"$60,001 to $90,000",60-90k,professional,WA,living with a partner,2.8,Q1,2.266666667,1.966666667,yes,yes,no,yes,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,yes
+Male,58,7,"$30,001 to $60,000",30-60k,small business owner,NSW,separated or divorced,3.466666667,Q2,3.333333333,2.3,yes,no,no,no,no,no,no,no,yes,yes,no,yes,no,no,no,no,yes,yes,no,no
+Female,61,1,"$30,001 to $60,000",30-60k,home-duties,QLD,married,4.033333333,Q3,3.6,3.689655172,yes,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no,yes
+Female,40,4,"$90,001 to $120,000",90-120k,professional,VIC,living with a partner,4.1,Q3,3.133333333,3.947368421,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,yes,yes,no,yes,no,yes,yes,yes
+Female,33,2,"$30,001 to $60,000",30-60k,unemployed,NSW,married,5,Q4,2.533333333,3.633333333,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+Male,59,1,"$30,001 to $60,000",30-60k,retired,QLD,married,3.1,Q1,2.933333333,2.833333333,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no
+Male,54,7,"$120,001 to $150,000",>120k,manager or administrator,VIC,married,4.3,Q4,4.133333333,3.260869565,yes,no,no,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,yes,yes,yes
+Male,27,7,"$60,001 to $90,000",60-90k,manager or administrator,Tas,single,2.7,Q1,2.266666667,3.260869565,yes,no,no,no,no,no,no,yes,no,yes,no,yes,no,no,no,no,no,no,no,no
+Male,41,8,"$90,001 to $120,000",90-120k,sales,VIC,married,3.133333333,Q1,3.066666667,2.366666667,yes,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no
+Female,32,7,"$30,001 to $60,000",30-60k,home-duties,NSW,married,3.633333333,Q2,4.066666667,2.68,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes
+Female,41,8,"$30,001 to $60,000",30-60k,professional,VIC,single,4.166666667,Q3,4.666666667,4.19047619,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,yes,yes,no,yes,no,yes,yes,no
+Male,50,7,"$30,001 to $60,000",30-60k,Clerical or service worker,NSW,married,4.133333333,Q3,3.533333333,2.875,yes,no,no,no,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,yes
+Male,21,7,"$60,001 to $90,000",60-90k,sales,VIC,single,3.8,Q2,3.8,2.275862069,yes,yes,no,yes,no,no,yes,yes,no,no,no,no,no,yes,no,no,no,no,yes,yes
+Male,45,6,"$90,001 to $120,000",90-120k,transport worker,QLD,married,4.033333333,Q3,3.666666667,2.695652174,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Male,71,1,"Less than $30,000",<30k,retired,Tas,living with a partner,3.8,Q2,3,2.5,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no
+Male,37,8,"$30,001 to $60,000",30-60k,professional,NSW,married,3.966666667,Q3,3.866666667,4.19047619,yes,no,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no,yes,no,yes,no,no,no
+Female,40,2,"$90,001 to $120,000",90-120k,Clerical or service worker,NSW,married,3.333333333,Q1,3.866666667,2.214285714,yes,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes
+Female,46,4,"$60,001 to $90,000",60-90k,small business owner,NSW,married,3.266666667,Q1,3.533333333,2.684210526,yes,no,no,no,no,no,no,yes,no,yes,no,yes,yes,no,no,no,no,no,no,yes
+Female,55,2,"$30,001 to $60,000",30-60k,Clerical or service worker,QLD,married,3.7,Q2,4.2,4.071428571,yes,yes,no,yes,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,yes
+Male,60,2,"Less than $30,000",<30k,retired,VIC,married,3.6,Q2,4.133333333,3.344827586,yes,no,no,yes,yes,yes,yes,yes,yes,no,yes,no,yes,yes,yes,yes,yes,yes,no,yes
+Male,37,1,"$90,001 to $120,000",90-120k,professional,VIC,NA,2.433333333,Q1,3.133333333,2.2,yes,yes,yes,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no
+Male,56,8,"$60,001 to $90,000",60-90k,Clerical or service worker,WA,married,4.033333333,Q3,4.266666667,3.666666667,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,yes,no,yes,no,yes,no,yes
+Female,56,6,"$90,001 to $120,000",90-120k,Clerical or service worker,QLD,married,4.4,Q4,4.466666667,3.433333333,yes,no,no,no,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,yes
+Female,36,1,"$60,001 to $90,000",60-90k,Clerical or service worker,VIC,living with a partner,4.266666667,Q4,4.066666667,3.857142857,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,yes,yes,no,yes,no,no,no,yes
+Female,36,6,"Less than $30,000",<30k,professional,NSW,separated or divorced,3.633333333,Q2,3.6,3.25,yes,no,yes,no,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,no
+Male,52,2,"$90,001 to $120,000",90-120k,small business owner,NSW,married,3.666666667,Q2,3.333333333,1.933333333,yes,no,no,yes,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,no,no,no
+Female,63,6,"$30,001 to $60,000",30-60k,sales,QLD,separated or divorced,4.233333333,Q4,3.466666667,3.038461538,yes,no,no,no,no,no,yes,yes,no,no,no,yes,yes,no,no,no,no,no,no,no
+Female,58,1,"Less than $30,000",<30k,Clerical or service worker,VIC,separated or divorced,4,Q3,4.333333333,2.466666667,yes,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes
+Male,62,3,"$30,001 to $60,000",30-60k,transport worker,QLD,married,4.333333333,Q4,4.866666667,3.482758621,yes,no,no,no,yes,no,no,yes,no,yes,no,no,yes,yes,no,yes,no,yes,yes,no
+Female,59,2,"$30,001 to $60,000",30-60k,home-duties,NSW,separated or divorced,3.3,Q1,4.266666667,NA,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,38,2,"Less than $30,000",<30k,home-duties,VIC,separated or divorced,4.4,Q4,4.133333333,4.466666667,yes,yes,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,yes,yes,no,yes
+Female,42,1,"Less than $30,000",<30k,home-duties,QLD,married,4.133333333,Q3,3.4,4.4,yes,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,no,yes,no,yes,no,no
+Male,39,4,"$150,001 to $180,000",>120k,professional,NSW,single,4.966666667,Q4,4.266666667,2.818181818,yes,yes,no,yes,yes,no,yes,yes,no,yes,yes,no,yes,yes,yes,yes,yes,no,yes,yes
+Female,58,8,"$60,001 to $90,000",60-90k,manager or administrator,QLD,separated or divorced,4.3,Q4,4.266666667,2.586206897,yes,no,no,yes,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,yes,yes,yes
+Male,46,8,"$150,001 to $180,000",>120k,manager or administrator,NSW,married,4,Q3,4.066666667,2.62962963,yes,no,no,no,no,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,no,no,yes
+Male,55,7,"$60,001 to $90,000",60-90k,professional,WA,separated or divorced,4.366666667,Q4,4.466666667,3.166666667,yes,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,no,yes,no,yes,yes,yes
+Male,36,8,"$30,001 to $60,000",30-60k,unemployed,WA,living with a partner,1,Q1,3.8,2.117647059,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,60,8,"$90,001 to $120,000",90-120k,manager or administrator,NSW,married,4.333333333,Q4,3.733333333,2.931034483,yes,no,no,yes,no,no,yes,yes,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes
+Female,41,6,"$30,001 to $60,000",30-60k,home-duties,NSW,married,4,Q3,3.4,4.545454545,yes,no,no,yes,no,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,no
+Female,41,1,"$60,001 to $90,000",60-90k,home-duties,QLD,married,4.066666667,Q3,4.066666667,3.533333333,yes,yes,no,no,yes,no,no,yes,no,yes,no,no,no,no,yes,no,no,no,no,yes
+Female,36,3,"$60,001 to $90,000",60-90k,Clerical or service worker,QLD,married,4.233333333,Q4,3.933333333,3.481481481,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,yes,no,yes,yes,no,no,yes,no
+Female,55,2,"Less than $30,000",<30k,retired,QLD,separated or divorced,4.6,Q4,4.2,3.851851852,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,no,no
+Male,21,7,"$30,001 to $60,000",30-60k,unemployed,NSW,single,3.333333333,Q1,2.333333333,2.260869565,no,no,no,yes,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,yes
+Female,44,6,"$30,001 to $60,000",30-60k,manager or administrator,WA,single,3.8,Q2,3.666666667,3.625,yes,no,no,no,yes,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,yes
+Female,55,8,"$120,001 to $150,000",>120k,home-duties,NSW,married,3.3,Q1,3.066666667,2.633333333,yes,no,no,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,no,no,no,yes,yes
+Female,61,8,"$120,001 to $150,000",>120k,professional,VIC,married,3.633333333,Q2,4.266666667,3.444444444,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,no
+Female,38,7,NA,NA,Clerical or service worker,NSW,married,3.933333333,Q3,4.733333333,3.3,yes,no,no,no,no,no,no,yes,no,no,no,yes,yes,no,no,yes,no,no,no,yes
+Female,61,7,"$60,001 to $90,000",60-90k,professional,NSW,single,4.466666667,Q4,3.4,3.75,yes,no,no,yes,no,no,no,yes,yes,no,no,no,yes,yes,no,yes,no,yes,yes,yes
+Male,64,8,"$90,001 to $120,000",90-120k,professional,QLD,married,3.733333333,Q2,2.666666667,2.866666667,yes,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no,yes,no
+Female,59,2,"$60,001 to $90,000",60-90k,NA,NSW,married,4.3,Q4,3.666666667,3.142857143,yes,no,no,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,yes
+Female,38,1,"$60,001 to $90,000",60-90k,labourer,VIC,married,3.5,Q2,4.4,3,yes,no,no,no,yes,no,no,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes,yes
+Male,21,7,"$180,001 to $210,000",>120k,professional,NSW,single,3.8,Q2,3.6,3.076923077,yes,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Female,60,4,"$90,001 to $120,000",90-120k,professional,SA,married,3.5,Q2,3.533333333,2.583333333,yes,no,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,yes
+Female,58,3,"$30,001 to $60,000",30-60k,home-duties,VIC,married,3.9,Q3,3.6,3.25,no,no,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,yes,no
+Female,74,1,"$30,001 to $60,000",30-60k,sales,NSW,married,2.666666667,Q1,3.733333333,1.933333333,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no,yes
+Female,58,1,"Less than $30,000",<30k,retired,VIC,single,3.933333333,Q3,4.333333333,2.761904762,yes,yes,no,no,no,no,no,no,no,yes,no,no,yes,yes,no,no,no,no,no,yes
+Male,45,2,"$30,001 to $60,000",30-60k,manager or administrator,VIC,married,3.566666667,Q2,3.266666667,2.766666667,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no
+Female,39,3,"$120,001 to $150,000",>120k,manager or administrator,NSW,married,3.7,Q2,2.866666667,3,yes,no,no,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,yes,no,yes
+Male,57,3,"$30,001 to $60,000",30-60k,Clerical or service worker,NSW,married,2.566666667,Q1,2.266666667,1.75862069,yes,yes,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,yes,yes
+Female,39,7,"$120,001 to $150,000",>120k,manager or administrator,NSW,single,4.766666667,Q4,4.533333333,4.533333333,yes,yes,no,no,yes,yes,yes,yes,yes,yes,no,no,yes,yes,no,yes,no,yes,yes,yes
+Female,84,2,NA,NA,Clerical or service worker,VIC,married,3.133333333,Q1,3,2.944444444,yes,yes,no,yes,no,no,yes,no,no,yes,yes,yes,no,no,yes,no,yes,no,no,yes
+Male,27,7,"$120,001 to $150,000",>120k,professional,NSW,married,4.433333333,Q4,3.933333333,3.727272727,yes,yes,no,yes,no,no,yes,yes,no,yes,no,no,no,no,yes,yes,no,no,no,yes
+Male,47,3,"$30,001 to $60,000",30-60k,NA,NSW,married,3.633333333,Q2,3.066666667,2.068965517,yes,yes,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Female,24,3,"$30,001 to $60,000",30-60k,home-duties,VIC,married,4.433333333,Q4,3.333333333,1.931034483,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,no,no,yes,no,no,no,no,yes
+Female,60,4,NA,NA,home-duties,VIC,single,4.433333333,Q4,3.333333333,3,yes,yes,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,no,no,no,yes,no,no,yes
+Male,21,2,"$30,001 to $60,000",30-60k,manager or administrator,NSW,single,3.533333333,Q2,3.466666667,2.2,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,55,6,"$30,001 to $60,000",30-60k,retired,NSW,married,3.833333333,Q3,4.066666667,3.583333333,no,no,no,yes,yes,no,no,yes,no,yes,no,no,yes,no,no,yes,no,no,no,yes
+Male,23,6,"$120,001 to $150,000",>120k,manager or administrator,NSW,single,3.033333333,Q1,3.733333333,1.966666667,yes,no,no,yes,yes,no,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,yes
+Female,61,1,NA,NA,home-duties,QLD,married,3.766666667,Q2,3.466666667,2.857142857,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,yes
+Male,60,1,"$30,001 to $60,000",30-60k,small business owner,QLD,married,3.933333333,Q3,3.4,3.4,yes,no,no,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no,no,no,no,yes
+Female,55,1,"Less than $30,000",<30k,home-duties,QLD,married,3.966666667,Q3,4.133333333,3.055555556,yes,no,no,yes,yes,no,no,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,no,no
+Male,29,7,"$30,001 to $60,000",30-60k,professional,NSW,single,3.4,Q2,3.266666667,2.47826087,yes,yes,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,yes,yes,yes,yes
+Male,59,8,"$180,001 to $210,000",>120k,retired,WA,living with a partner,4.233333333,Q4,5,3.833333333,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no,yes,yes,no,no,no,no,no,yes
+Female,49,6,"$30,001 to $60,000",30-60k,Clerical or service worker,WA,married,3.733333333,Q2,3.6,2.692307692,yes,yes,no,no,no,no,no,yes,no,yes,no,yes,no,no,no,yes,no,yes,no,yes
+Male,22,6,"$60,001 to $90,000",60-90k,professional,SA,living with a partner,3.1,Q1,2.533333333,2.233333333,yes,no,no,yes,yes,no,yes,no,no,yes,no,yes,yes,no,no,yes,yes,yes,yes,yes
+Female,61,8,"$30,001 to $60,000",30-60k,Clerical or service worker,VIC,single,2.733333333,Q1,2.933333333,2.318181818,yes,yes,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,yes,yes,no,no
+Female,40,2,"$60,001 to $90,000",60-90k,manager or administrator,NSW,married,3.366666667,Q1,3.266666667,1.965517241,yes,no,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no
+Male,52,2,"Less than $30,000",<30k,transport worker,SA,separated or divorced,4.033333333,Q3,4.2,3.666666667,yes,no,no,no,yes,no,yes,yes,no,yes,yes,no,yes,no,yes,yes,no,no,yes,yes
+Female,27,8,"$90,001 to $120,000",90-120k,professional,NSW,married,3.866666667,Q3,3.133333333,3,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Male,56,7,"$90,001 to $120,000",90-120k,professional,NSW,married,2,Q1,3,2.4,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,43,7,"$180,001 to $210,000",>120k,manager or administrator,NSW,living with a partner,3.533333333,Q2,3.066666667,NA,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Male,41,7,"$210,001 to $240,000",>120k,professional,NSW,married,3.5,Q2,3.4,2.730769231,yes,no,no,no,no,no,yes,no,no,no,yes,yes,yes,no,no,no,no,no,yes,yes
+Male,29,7,"Less than $30,000",<30k,professional,NSW,single,3.066666667,Q1,4.2,2.545454545,yes,yes,no,no,yes,no,yes,yes,no,yes,no,yes,yes,no,yes,no,yes,no,no,yes
+Female,25,6,"$30,001 to $60,000",30-60k,tradesperson,VIC,single,4.8,Q4,3.466666667,3.233333333,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,no,yes,yes,yes
+Male,35,8,"$60,001 to $90,000",60-90k,manager or administrator,QLD,married,4.233333333,Q4,3.8,2.291666667,yes,no,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,yes
+Female,59,1,"$30,001 to $60,000",30-60k,NA,VIC,married,4.233333333,Q4,3.733333333,3.571428571,yes,no,no,no,yes,no,yes,yes,no,no,no,no,yes,no,yes,no,no,no,no,yes
+Male,27,3,NA,NA,Clerical or service worker,VIC,single,4,Q3,3.066666667,2.966666667,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,42,6,"$90,001 to $120,000",90-120k,professional,SA,married,4.766666667,Q4,3.2,4.2,yes,no,yes,yes,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,no,no,no,yes
+Female,63,3,"Less than $30,000",<30k,retired,WA,separated or divorced,3.166666667,Q1,4.066666667,3.045454545,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,no,no,yes,yes,no,no,no,yes
+Male,47,7,"more than $240,001",>120k,manager or administrator,NSW,living with a partner,2.7,Q1,2.733333333,3.103448276,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,yes,no
+Female,26,1,"$60,001 to $90,000",60-90k,home-duties,VIC,married,3.866666667,Q3,3.733333333,2.636363636,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,yes,no,no,no,no,no,yes
+Male,50,3,"$60,001 to $90,000",60-90k,small business owner,VIC,single,3.4,Q2,3.066666667,2.9375,yes,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,no,no,no,no,no,yes,yes
+Male,31,3,"$120,001 to $150,000",>120k,manager or administrator,ACT,living with a partner,2.966666667,Q1,4.2,2.733333333,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no
+Female,60,1,"Less than $30,000",<30k,retired,NSW,married,3.533333333,Q2,3.066666667,3.411764706,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Female,36,3,"$90,001 to $120,000",90-120k,NA,QLD,married,3.2,Q1,3.133333333,2.260869565,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Male,22,7,NA,NA,professional,NSW,single,3.666666667,Q2,4,3.04,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,59,7,"$150,001 to $180,000",>120k,small business owner,VIC,married,3.533333333,Q2,2.6,3.296296296,yes,no,no,yes,no,no,no,yes,no,no,no,yes,yes,yes,no,no,no,no,yes,yes
+Female,31,7,"$210,001 to $240,000",>120k,professional,NSW,married,2.533333333,Q1,2.733333333,2.1,yes,yes,no,no,no,no,yes,no,no,yes,no,yes,yes,no,no,yes,no,no,yes,yes
+Male,37,7,"$30,001 to $60,000",30-60k,labourer,QLD,married,3.333333333,Q1,2.466666667,2.266666667,yes,no,no,yes,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no
+Female,42,1,"$30,001 to $60,000",30-60k,home-duties,WA,married,3.666666667,Q2,3.6,3,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no
+Male,33,7,"$60,001 to $90,000",60-90k,professional,NSW,married,4.366666667,Q4,3.133333333,3.666666667,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no
+Male,39,4,"$30,001 to $60,000",30-60k,manager or administrator,VIC,married,3.433333333,Q2,4.2,2.62962963,yes,yes,no,no,yes,no,yes,no,no,yes,no,no,no,no,yes,yes,no,yes,no,yes
+Male,31,7,"$30,001 to $60,000",30-60k,Clerical or service worker,SA,separated or divorced,4.6,Q4,4.133333333,4.1,yes,no,no,no,yes,no,yes,no,no,no,yes,no,yes,no,no,yes,no,yes,no,yes
+Female,59,2,"$30,001 to $60,000",30-60k,NA,NSW,married,3.433333333,Q2,2.133333333,2.45,no,no,no,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,no,yes,no,yes,yes
+Male,57,7,"$60,001 to $90,000",60-90k,manager or administrator,NSW,separated or divorced,4.966666667,Q4,4.666666667,2.5,yes,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,yes,no,no,yes,yes,no
+Male,41,6,"$30,001 to $60,000",30-60k,tradesperson,QLD,single,3.433333333,Q2,4.2,2.033333333,yes,no,no,no,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no
+Male,43,6,"$30,001 to $60,000",30-60k,manager or administrator,WA,married,3.4,Q2,3.8,3,yes,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,yes,yes,no,no,no,yes
+Male,33,3,"$60,001 to $90,000",60-90k,labourer,SA,single,3.566666667,Q2,3.933333333,3.24,yes,no,no,yes,yes,no,yes,yes,no,yes,no,no,yes,no,no,no,yes,no,no,yes
+Male,23,6,"$120,001 to $150,000",>120k,sales,VIC,single,3.733333333,Q2,4,3,yes,no,yes,no,yes,no,yes,yes,no,yes,no,no,yes,yes,no,no,no,no,yes,no
+Male,53,6,"$90,001 to $120,000",90-120k,Clerical or service worker,VIC,married,3.933333333,Q3,4.4,2.666666667,yes,no,no,no,no,no,no,no,no,yes,yes,yes,yes,no,no,no,no,no,yes,yes
+Female,65,3,"$30,001 to $60,000",30-60k,retired,NSW,married,4.433333333,Q4,4.133333333,3.636363636,yes,no,yes,no,yes,no,yes,no,no,no,yes,no,no,yes,no,yes,no,yes,no,yes
+Male,48,3,"$30,001 to $60,000",30-60k,home-duties,VIC,married,3.333333333,Q1,3.333333333,1.793103448,yes,yes,no,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,no,yes,yes,no,yes
+Female,63,3,"$30,001 to $60,000",30-60k,retired,VIC,married,4.433333333,Q4,3.666666667,3.722222222,yes,no,no,no,yes,no,no,no,no,yes,no,yes,yes,no,no,no,yes,no,no,no
+Female,36,7,"$60,001 to $90,000",60-90k,professional,VIC,married,4.066666667,Q3,4.133333333,2.185185185,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,no
+Female,51,8,"$90,001 to $120,000",90-120k,small business owner,WA,married,3.966666667,Q3,3.6,3.538461538,yes,yes,no,yes,yes,no,yes,yes,yes,yes,yes,no,yes,no,no,no,no,no,yes,yes
+Male,58,7,"$180,001 to $210,000",>120k,professional,NSW,married,4.7,Q4,3.2,3.3,yes,yes,no,no,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes
+Female,53,4,"Less than $30,000",<30k,Clerical or service worker,QLD,separated or divorced,4.266666667,Q4,4.466666667,3.619047619,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Male,66,4,"$60,001 to $90,000",60-90k,retired,WA,married,3.666666667,Q2,2.666666667,3.037037037,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,yes,yes,no
+Male,74,4,"$30,001 to $60,000",30-60k,tradesperson,SA,married,2.933333333,Q1,3.466666667,1.9,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Female,38,3,"$150,001 to $180,000",>120k,professional,NSW,living with a partner,4.366666667,Q4,4,2.966666667,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes,yes,yes,no,yes,no,no
+Male,34,7,"$60,001 to $90,000",60-90k,professional,VIC,married,4.733333333,Q4,3.466666667,3.772727273,yes,yes,yes,yes,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,no,yes
+Male,58,4,"$90,001 to $120,000",90-120k,manager or administrator,NSW,married,3,Q1,3.133333333,2.966666667,yes,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no
+Female,40,4,"$30,001 to $60,000",30-60k,small business owner,QLD,married,3.2,Q1,3.933333333,2.233333333,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,yes
+Female,55,4,NA,NA,NA,NSW,widowed,3.866666667,Q3,4.2,4.235294118,yes,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no
+Male,30,4,"$60,001 to $90,000",60-90k,manager or administrator,QLD,living with a partner,4.166666667,Q3,3.8,2.666666667,yes,no,yes,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,yes,no,no,no
+Male,42,2,"$30,001 to $60,000",30-60k,professional,NSW,married,3.366666667,Q1,4.133333333,NA,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Male,58,3,"$30,001 to $60,000",30-60k,professional,NSW,single,4.466666667,Q4,4.533333333,3.391304348,yes,no,no,yes,yes,yes,no,yes,no,yes,no,no,yes,yes,no,yes,no,yes,yes,yes
+Male,35,3,"$60,001 to $90,000",60-90k,manager or administrator,QLD,single,4.266666667,Q4,3.466666667,2.666666667,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,58,1,"$90,001 to $120,000",90-120k,Clerical or service worker,QLD,married,4.333333333,Q4,4,4.1,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,yes,no,yes,no,no
+Female,70,2,"$60,001 to $90,000",60-90k,professional,VIC,living with a partner,3.933333333,Q3,3.066666667,4.5,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no
+Female,60,7,"$60,001 to $90,000",60-90k,manager or administrator,QLD,married,4.533333333,Q4,4.2,4.714285714,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,yes,yes,no,yes,no,yes,yes,yes
+Female,32,7,"$120,001 to $150,000",>120k,professional,ACT,single,4.266666667,Q4,3.733333333,3.045454545,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,yes,yes,no,yes,no,yes,yes,yes
+Male,20,1,"$180,001 to $210,000",>120k,Clerical or service worker,QLD,single,4.5,Q4,4.133333333,3.6,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,no,no,no,yes,yes,no,yes,no,no
+Male,22,6,"$60,001 to $90,000",60-90k,sales,NSW,single,2.9,Q1,3.666666667,2.863636364,yes,yes,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,yes,yes,no,yes
+Male,56,7,"$90,001 to $120,000",90-120k,sales,VIC,married,4.1,Q3,2,3.692307692,yes,no,no,no,no,no,yes,yes,no,yes,no,yes,yes,no,no,no,no,no,yes,yes
+Male,62,6,"$90,001 to $120,000",90-120k,tradesperson,VIC,married,4,Q3,3.2,2.966666667,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,55,2,"$60,001 to $90,000",60-90k,Clerical or service worker,NSW,married,3.433333333,Q2,3.733333333,2.103448276,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,no,yes
+Male,61,8,"$90,001 to $120,000",90-120k,professional,VIC,married,2.533333333,Q1,3.8,2.68,yes,yes,no,yes,yes,yes,no,yes,no,yes,no,no,yes,no,yes,yes,no,yes,yes,yes
+Male,56,7,"$180,001 to $210,000",>120k,manager or administrator,Tas,married,4.166666667,Q3,2.8,2.766666667,yes,yes,no,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,yes,no,yes
+Female,42,6,"$30,001 to $60,000",30-60k,Clerical or service worker,NSW,single,3.166666667,Q1,4.4,2.357142857,yes,no,no,no,yes,no,no,yes,yes,yes,no,no,yes,yes,yes,no,no,yes,yes,yes
+Male,38,8,"Less than $30,000",<30k,unemployed,VIC,married,4.366666667,Q4,3.866666667,3,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,yes,no
+Male,40,7,"$90,001 to $120,000",90-120k,manager or administrator,NSW,separated or divorced,2.233333333,Q1,2.466666667,1.925925926,yes,no,no,yes,no,no,yes,no,no,yes,no,yes,yes,no,no,yes,no,no,no,yes
+Male,41,6,"$30,001 to $60,000",30-60k,professional,NSW,married,3.966666667,Q3,4.533333333,2.92,yes,no,no,yes,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,no,yes,no,yes
+Female,23,3,"$120,001 to $150,000",>120k,manager or administrator,VIC,single,4.066666667,Q3,3.866666667,2.653846154,yes,no,no,yes,yes,no,yes,yes,no,yes,no,no,yes,no,no,no,no,no,yes,yes
+Female,61,3,"$150,001 to $180,000",>120k,professional,VIC,living with a partner,3.166666667,Q1,3.266666667,3.8,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes
+Female,44,7,"$90,001 to $120,000",90-120k,professional,QLD,married,1.9,Q1,4.066666667,3.533333333,yes,no,no,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,no
+Female,34,3,"$30,001 to $60,000",30-60k,home-duties,NSW,living with a partner,4.366666667,Q4,3.733333333,3.608695652,yes,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,no
+Female,28,7,"$30,001 to $60,000",30-60k,manager or administrator,QLD,single,2.6,Q1,2.666666667,1.913043478,yes,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,yes,no,no,no
+Male,55,8,"$60,001 to $90,000",60-90k,manager or administrator,VIC,single,4,Q3,3.6,2.7,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no
+Female,37,2,"$30,001 to $60,000",30-60k,home-duties,QLD,living with a partner,3.1,Q1,3.666666667,3.047619048,yes,no,no,no,yes,no,yes,no,no,yes,no,no,no,yes,yes,no,no,yes,no,no
+Female,58,2,"$60,001 to $90,000",60-90k,NA,NSW,married,3.9,Q3,3.4,4,yes,no,no,no,no,no,yes,no,no,no,yes,yes,yes,yes,no,no,no,no,no,no
+Male,22,3,"$60,001 to $90,000",60-90k,professional,QLD,living with a partner,4.333333333,Q4,4.266666667,2.7,yes,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes
+Male,43,3,"$30,001 to $60,000",30-60k,professional,NSW,married,4.133333333,Q3,3.466666667,2.966666667,yes,no,no,yes,yes,no,yes,no,no,no,yes,no,yes,no,yes,yes,no,yes,no,yes
+Male,20,3,"$120,001 to $150,000",>120k,manager or administrator,NSW,single,4.3,Q4,4.4,3.8125,yes,no,no,no,no,no,no,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no
+Female,61,3,"$30,001 to $60,000",30-60k,manager or administrator,NSW,single,3.266666667,Q1,4.333333333,2.76,yes,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,yes
+Male,56,8,"$30,001 to $60,000",30-60k,manager or administrator,NSW,separated or divorced,2.8,Q1,2.866666667,2.366666667,yes,no,no,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,yes
+Female,29,4,"$30,001 to $60,000",30-60k,home-duties,QLD,living with a partner,3.333333333,Q1,3.333333333,2.615384615,yes,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,yes
+Male,58,8,"$180,001 to $210,000",>120k,professional,VIC,single,2.733333333,Q1,3.533333333,1.833333333,yes,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no,yes,yes
+Male,28,7,"$60,001 to $90,000",60-90k,sales,NSW,living with a partner,3.666666667,Q2,3.6,2.85,yes,yes,yes,yes,no,no,yes,yes,yes,yes,no,no,yes,yes,no,yes,no,yes,no,yes
+Male,25,8,"$120,001 to $150,000",>120k,manager or administrator,NSW,single,3.566666667,Q2,3.2,3.125,yes,no,yes,yes,yes,no,yes,yes,no,yes,no,no,yes,no,no,yes,no,no,yes,yes
+Male,59,2,"Less than $30,000",<30k,unemployed,NSW,married,4.366666667,Q4,3.4,3.1,yes,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,yes,yes,no,yes
+Male,33,8,"$30,001 to $60,000",30-60k,manager or administrator,Tas,single,4.033333333,Q3,3.866666667,2.333333333,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no
+Male,51,3,"$150,001 to $180,000",>120k,professional,NSW,married,3.033333333,Q1,3.8,2.1,no,no,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes
+Female,26,1,"Less than $30,000",<30k,sales,VIC,separated or divorced,4.4,Q4,3.333333333,4.071428571,yes,no,no,yes,yes,no,yes,yes,no,yes,yes,no,yes,yes,no,yes,no,yes,no,yes
+Male,59,NA,NA,NA,NA,NSW,widowed,3.366666667,Q1,4.6,2.5,yes,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,yes,yes,no,yes,no,no
+Female,25,3,"$60,001 to $90,000",60-90k,manager or administrator,NT,single,2.7,Q1,3.6,1.8,yes,yes,no,no,no,no,yes,no,no,yes,yes,yes,no,no,no,no,no,no,no,no
+Male,33,6,"$60,001 to $90,000",60-90k,unemployed,VIC,single,3.966666667,Q3,4,NA,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,35,7,"$60,001 to $90,000",60-90k,professional,QLD,single,3.7,Q2,3.8,3.266666667,yes,no,yes,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,no,no,no,yes,yes
+Male,28,7,"$60,001 to $90,000",60-90k,sales,WA,single,3.166666667,Q1,3.4,2.148148148,yes,no,no,yes,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,no,no,no
+Female,21,7,"$60,001 to $90,000",60-90k,Clerical or service worker,QLD,living with a partner,4.166666667,Q3,3.6,2.178571429,yes,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,yes
+Female,57,8,"$210,001 to $240,000",>120k,manager or administrator,NSW,married,3.966666667,Q3,3.666666667,3.296296296,yes,yes,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,yes,no,yes
+Male,35,3,NA,NA,manager or administrator,SA,married,2.9,Q1,3,2.266666667,no,no,no,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes
+Male,32,4,"$60,001 to $90,000",60-90k,tradesperson,VIC,married,3.333333333,Q1,4.266666667,2.965517241,yes,no,no,yes,no,no,yes,yes,no,yes,no,no,yes,yes,no,yes,no,yes,no,yes
+Female,61,1,"Less than $30,000",<30k,NA,VIC,widowed,4.166666667,Q3,3.666666667,3,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Female,19,3,"$90,001 to $120,000",90-120k,Clerical or service worker,VIC,single,1.366666667,Q1,2.4,1.75,yes,no,no,yes,yes,no,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,yes
+Female,43,1,"Less than $30,000",<30k,Clerical or service worker,VIC,separated or divorced,3.266666667,Q1,3.533333333,3,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes
+Male,38,8,"$90,001 to $120,000",90-120k,manager or administrator,NSW,married,3.7,Q2,3.8,2.47826087,yes,no,yes,no,yes,no,yes,yes,no,yes,no,no,yes,no,no,no,yes,yes,no,yes
+Female,59,2,"$30,001 to $60,000",30-60k,Clerical or service worker,NSW,married,3.7,Q2,3.933333333,3.266666667,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes
+Male,66,7,"$60,001 to $90,000",60-90k,small business owner,NSW,separated or divorced,3.7,Q2,3.333333333,2.392857143,yes,no,no,no,yes,no,yes,no,no,yes,no,no,yes,yes,no,yes,no,yes,no,yes
+Female,55,6,"$60,001 to $90,000",60-90k,manager or administrator,WA,married,3.7,Q2,3,3.208333333,yes,no,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,yes
+Male,19,1,"$90,001 to $120,000",90-120k,unemployed,WA,single,3.1,Q1,4.066666667,2.692307692,yes,yes,no,no,yes,no,yes,yes,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes
+Male,60,7,"$30,001 to $60,000",30-60k,retired,WA,married,3.266666667,Q1,3.8,3.166666667,yes,no,no,yes,yes,no,yes,yes,yes,no,no,no,yes,no,no,yes,no,yes,no,yes
+Female,26,6,"$30,001 to $60,000",30-60k,home-duties,SA,married,3.933333333,Q3,3.8,3.363636364,yes,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes
+Male,55,8,"$90,001 to $120,000",90-120k,manager or administrator,VIC,living with a partner,4.433333333,Q4,4.133333333,2.7,yes,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,yes,no,no,yes,yes
+Male,56,7,"$60,001 to $90,000",60-90k,Clerical or service worker,VIC,married,4.3,Q4,3.266666667,2.5,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,yes
+Female,61,6,"$30,001 to $60,000",30-60k,Clerical or service worker,VIC,married,3.433333333,Q2,3.133333333,2.931034483,yes,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no
+Male,44,6,"more than $240,001",>120k,home-duties,QLD,married,3.3,Q1,3.333333333,2.633333333,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Female,31,1,"$30,001 to $60,000",30-60k,home-duties,QLD,married,3.366666667,Q1,3.333333333,2.034482759,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,no,yes,no,no,no,no,no,no
+Female,42,2,NA,NA,professional,VIC,single,3.633333333,Q2,4.066666667,3.875,yes,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,no,yes,no,no,no,yes
+Male,63,1,"$30,001 to $60,000",30-60k,retired,NSW,married,3.466666667,Q2,4.466666667,3.033333333,yes,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,no,yes,yes,yes,yes
+Female,34,7,"$90,001 to $120,000",90-120k,professional,WA,married,3.4,Q2,3.6,2.730769231,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,31,3,"$60,001 to $90,000",60-90k,small business owner,NSW,married,3.9,Q3,4.333333333,3.071428571,yes,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no
+Male,46,3,"$30,001 to $60,000",30-60k,small business owner,NSW,living with a partner,4.266666667,Q4,4.2,3.125,yes,yes,no,no,yes,no,yes,yes,no,yes,yes,yes,no,no,no,no,no,no,no,yes
+Female,21,3,"$60,001 to $90,000",60-90k,unemployed,VIC,single,3.933333333,Q3,4,2.56,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes
+Female,30,3,"Less than $30,000",<30k,unemployed,WA,living with a partner,4.033333333,Q3,3.933333333,3.238095238,yes,no,yes,yes,yes,no,no,yes,no,yes,no,no,yes,yes,no,yes,no,no,no,yes
+Male,39,1,"$30,001 to $60,000",30-60k,labourer,VIC,married,4.366666667,Q4,3.933333333,3.944444444,yes,no,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,no,yes,no,no,no,yes
+Female,19,2,"$30,001 to $60,000",30-60k,sales,QLD,single,3.966666667,Q3,3.733333333,3.038461538,yes,no,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Female,23,7,NA,NA,Clerical or service worker,NSW,single,4.033333333,Q3,3.466666667,3.433333333,yes,no,no,yes,yes,no,no,yes,yes,no,no,no,no,yes,no,yes,no,no,no,yes
+Male,46,8,"$90,001 to $120,000",90-120k,professional,SA,married,3.066666667,Q1,4.733333333,3.636363636,yes,yes,no,yes,yes,no,yes,yes,no,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
+Female,39,4,"$120,001 to $150,000",>120k,sales,WA,married,2.266666667,Q1,2.933333333,3.5,yes,yes,no,no,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,yes
+Male,39,4,"$150,001 to $180,000",>120k,manager or administrator,NSW,single,4.566666667,Q4,4.933333333,3.428571429,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,yes,no,yes,no,no,yes,no
+Female,19,NA,NA,NA,NA,VIC,single,3.4,Q2,3.133333333,2.375,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,no,no,yes,no,yes,no
+Female,59,8,"$30,001 to $60,000",30-60k,manager or administrator,SA,separated or divorced,3.1,Q1,3.6,1.7,no,no,no,yes,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes
+Male,76,3,"$60,001 to $90,000",60-90k,retired,VIC,married,3.6,Q2,4.133333333,1.9,yes,no,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,yes
+Female,36,3,"$120,001 to $150,000",>120k,Clerical or service worker,QLD,married,4.433333333,Q4,3.533333333,2.366666667,yes,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Female,55,2,"$30,001 to $60,000",30-60k,retired,SA,married,3.633333333,Q2,3.666666667,2.8125,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,yes,yes
+Male,28,8,"$60,001 to $90,000",60-90k,professional,VIC,married,4.833333333,Q4,4.2,3.206896552,yes,no,no,yes,no,no,yes,yes,yes,no,yes,no,no,no,no,no,no,yes,no,yes
+Female,33,7,NA,NA,sales,VIC,single,4.4,Q4,4.466666667,3.571428571,no,no,no,yes,no,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes
+Male,59,7,"$120,001 to $150,000",>120k,NA,QLD,married,3.733333333,Q2,3.2,2.346153846,yes,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,yes,no,yes,yes,yes
+Male,41,7,"$150,001 to $180,000",>120k,professional,QLD,married,3.566666667,Q2,2.933333333,2.666666667,yes,yes,yes,yes,no,no,yes,no,no,no,yes,yes,no,no,yes,yes,no,yes,no,yes
+Male,62,8,"$90,001 to $120,000",90-120k,professional,QLD,married,3.2,Q1,3.2,2.310344828,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,yes
+Male,70,3,"$30,001 to $60,000",30-60k,retired,VIC,widowed,3.7,Q2,3.533333333,3.777777778,no,no,no,no,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no
+Male,64,1,"$30,001 to $60,000",30-60k,manager or administrator,QLD,living with a partner,4.766666667,Q4,4.933333333,2.033333333,yes,no,no,no,no,yes,yes,yes,no,yes,no,no,yes,yes,no,yes,no,yes,yes,yes
+Female,30,7,"$120,001 to $150,000",>120k,manager or administrator,WA,married,4.6,Q4,4.4,3.85,yes,yes,no,yes,yes,no,yes,no,no,yes,no,yes,yes,yes,no,yes,no,yes,yes,yes
+Male,48,2,"$60,001 to $90,000",60-90k,professional,VIC,married,3.966666667,Q3,4.133333333,3.166666667,yes,no,no,yes,yes,no,yes,yes,no,no,no,yes,yes,no,no,no,no,no,no,yes
+Male,65,1,NA,NA,retired,QLD,separated or divorced,4.066666667,Q3,3.6,3.304347826,yes,no,no,no,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,yes
+Male,57,6,"$60,001 to $90,000",60-90k,tradesperson,NSW,married,3.366666667,Q1,3.266666667,2.666666667,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Male,58,8,"$60,001 to $90,000",60-90k,professional,QLD,married,3.9,Q3,3.4,3.074074074,yes,no,no,no,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,yes
+Female,36,7,"$90,001 to $120,000",90-120k,unemployed,WA,married,3.9,Q3,3.533333333,3.333333333,yes,no,yes,no,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,no,no,yes
+Female,56,6,"Less than $30,000",<30k,Clerical or service worker,NSW,single,3.666666667,Q2,3.4,2.75,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,yes
+Female,43,6,"$120,001 to $150,000",>120k,small business owner,NSW,married,2.933333333,Q1,2.866666667,2.3,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,32,7,NA,NA,professional,NSW,single,3.566666667,Q2,4,2.272727273,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,yes,yes
+Male,34,8,"$60,001 to $90,000",60-90k,manager or administrator,QLD,married,3.4,Q2,3,2.071428571,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,31,4,"$60,001 to $90,000",60-90k,manager or administrator,QLD,married,4.066666667,Q3,4.333333333,3.230769231,yes,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes
+Male,69,6,"$60,001 to $90,000",60-90k,small business owner,NSW,married,4.266666667,Q4,3.733333333,3.4,no,no,no,no,yes,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,yes,yes
+Female,36,8,"$60,001 to $90,000",60-90k,professional,VIC,single,3.6,Q2,2.733333333,2.428571429,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes
+Female,41,8,"$30,001 to $60,000",30-60k,professional,VIC,separated or divorced,4.333333333,Q4,4,2.875,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,no,no,no,no,yes,yes
+Female,48,7,"$30,001 to $60,000",30-60k,sales,QLD,married,3.666666667,Q2,4.533333333,2,yes,yes,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,yes,yes
+Male,36,3,"$60,001 to $90,000",60-90k,sales,QLD,married,3.866666667,Q3,4.333333333,3.047619048,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no
+Male,59,1,"$30,001 to $60,000",30-60k,manager or administrator,SA,living with a partner,4.2,Q3,3.133333333,3.533333333,yes,no,no,no,no,no,yes,no,no,yes,no,no,yes,no,no,yes,no,yes,no,no
+Female,56,7,"$180,001 to $210,000",>120k,Clerical or service worker,NSW,married,4.133333333,Q3,3.133333333,3.181818182,yes,no,no,yes,yes,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,yes,yes
+Female,19,1,"$30,001 to $60,000",30-60k,NA,NSW,living with a partner,3.7,Q2,4.533333333,2.958333333,yes,yes,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,yes,no
+Male,36,4,"$90,001 to $120,000",90-120k,manager or administrator,NSW,married,4.233333333,Q4,3,2.933333333,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes
+Male,34,7,"$120,001 to $150,000",>120k,professional,QLD,married,3.966666667,Q3,3.266666667,2.80952381,yes,no,no,no,yes,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,yes,yes
+Male,33,3,NA,NA,NA,WA,living with a partner,4.166666667,Q3,3.733333333,2.583333333,yes,no,no,no,yes,no,yes,yes,no,no,no,yes,yes,no,no,no,no,no,no,no
+Female,62,2,"Less than $30,000",<30k,unemployed,SA,separated or divorced,4.433333333,Q4,3.733333333,2.966666667,yes,yes,no,yes,yes,no,yes,yes,no,yes,no,no,yes,no,yes,no,no,yes,yes,no
+Male,57,8,"$90,001 to $120,000",90-120k,professional,NSW,separated or divorced,4.666666667,Q4,3.4,3.84,yes,no,yes,no,no,no,yes,no,no,yes,no,no,yes,no,no,yes,no,yes,yes,yes
+Male,40,7,NA,NA,manager or administrator,SA,separated or divorced,4.2,Q3,2.8,3.304347826,yes,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,yes
+Male,67,1,"Less than $30,000",<30k,retired,SA,living with a partner,3.1,Q1,3.066666667,NA,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,27,7,"$90,001 to $120,000",90-120k,professional,NSW,living with a partner,4.1,Q3,3.666666667,2.827586207,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,no,yes,yes,yes
+Male,34,6,"$60,001 to $90,000",60-90k,manager or administrator,NSW,married,2.6,Q1,3.733333333,2.473684211,yes,no,no,yes,no,no,yes,yes,yes,no,no,no,no,no,no,yes,no,no,yes,no
+Male,59,7,"$60,001 to $90,000",60-90k,professional,VIC,married,3.4,Q2,3.133333333,2.6875,no,no,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Male,33,8,"$90,001 to $120,000",90-120k,professional,NSW,married,3.2,Q1,3.533333333,2,yes,no,no,no,no,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,yes
+Female,43,7,"$30,001 to $60,000",30-60k,professional,QLD,living with a partner,3.633333333,Q2,3.2,1.827586207,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,55,8,"$90,001 to $120,000",90-120k,manager or administrator,QLD,married,4.9,Q4,4.266666667,NA,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,yes,no,yes,no,no,yes,yes
+Female,21,7,"$30,001 to $60,000",30-60k,unemployed,QLD,single,3.666666667,Q2,3.333333333,2.703703704,yes,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,yes,no,no
+Male,57,7,"$90,001 to $120,000",90-120k,professional,QLD,living with a partner,4,Q3,3.4,3.214285714,no,no,no,yes,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,no
+Male,53,6,"$60,001 to $90,000",60-90k,sales,NSW,married,4.433333333,Q4,3.466666667,3.95,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,yes,no,no,yes,no,no,no,yes
+Female,41,3,"$60,001 to $90,000",60-90k,home-duties,WA,married,3.3,Q1,3.333333333,2.476190476,yes,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes
+Male,42,4,"$90,001 to $120,000",90-120k,professional,VIC,married,3.733333333,Q2,4.4,2.7,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,yes,no,no,no,no,no,yes
+Male,63,6,"$30,001 to $60,000",30-60k,professional,VIC,married,4.333333333,Q4,4.866666667,3.333333333,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,yes
+Male,23,7,"Less than $30,000",<30k,NA,NSW,single,2.966666667,Q1,3.4,2.727272727,yes,no,no,no,no,no,yes,no,no,yes,no,yes,yes,no,no,no,no,no,yes,yes
+Male,48,2,"$60,001 to $90,000",60-90k,manager or administrator,NSW,married,3.1,Q1,3.466666667,2.366666667,yes,no,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes
+Female,30,2,"$120,001 to $150,000",>120k,Clerical or service worker,VIC,single,4.433333333,Q4,4.533333333,3.066666667,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,yes,no
+Female,29,8,"$30,001 to $60,000",30-60k,professional,WA,single,3.766666667,Q2,3.6,2.333333333,yes,no,no,yes,yes,no,yes,no,yes,yes,no,no,yes,no,no,no,no,no,no,no
+Male,28,7,"$90,001 to $120,000",90-120k,professional,QLD,living with a partner,3.7,Q2,3.2,2.961538462,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,yes,yes,no,no,no,no,no,yes
+Male,55,8,"$210,001 to $240,000",>120k,professional,NSW,married,3.733333333,Q2,4.2,1.777777778,yes,yes,no,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,no,no,no
+Female,64,2,"Less than $30,000",<30k,retired,QLD,married,3.833333333,Q3,3.4,3.6,yes,no,no,yes,yes,no,no,yes,no,yes,no,no,yes,yes,no,yes,no,yes,yes,no
+Female,47,7,"$60,001 to $90,000",60-90k,manager or administrator,SA,living with a partner,4.033333333,Q3,4.733333333,2.3,yes,yes,no,no,yes,no,no,no,no,yes,no,no,no,yes,no,yes,no,yes,no,yes
+Female,33,4,"Less than $30,000",<30k,unemployed,WA,married,4.033333333,Q3,3.866666667,4.285714286,yes,no,yes,yes,no,no,no,no,yes,no,no,no,yes,yes,no,yes,no,no,no,no
+Male,21,3,"$60,001 to $90,000",60-90k,tradesperson,SA,living with a partner,3.6,Q2,3.8,2.233333333,yes,yes,no,no,yes,no,yes,no,no,yes,no,no,yes,no,no,yes,no,no,no,yes
+Male,19,2,"Less than $30,000",<30k,NA,QLD,living with a partner,3.266666667,Q1,4.266666667,2.222222222,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,yes,yes,no,no,no,yes
+Female,39,8,"$150,001 to $180,000",>120k,manager or administrator,ACT,single,3.8,Q2,3.4,2.1,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,yes
+Female,29,6,"$150,001 to $180,000",>120k,manager or administrator,NSW,living with a partner,2.6,Q1,4.2,3.357142857,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,no,no,no,yes,no,yes,yes
+Female,43,1,"Less than $30,000",<30k,home-duties,NSW,single,4.666666667,Q4,3.133333333,2.633333333,yes,no,no,yes,no,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,no,no
+Male,35,7,"$180,001 to $210,000",>120k,professional,VIC,married,2.766666667,Q1,2.4,1.6,yes,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,yes,yes
+Male,29,7,"$150,001 to $180,000",>120k,professional,NSW,single,3.166666667,Q1,2.933333333,2.24137931,yes,no,yes,no,no,no,yes,yes,no,yes,no,yes,yes,no,no,yes,no,yes,no,yes
+Female,46,1,"$90,001 to $120,000",90-120k,small business owner,QLD,married,3.433333333,Q2,4.133333333,3.461538462,yes,no,no,yes,yes,no,no,yes,no,yes,no,no,no,yes,no,yes,no,yes,no,yes
+Male,55,6,"$90,001 to $120,000",90-120k,transport worker,VIC,married,2.933333333,Q1,3.266666667,3,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,yes
+Male,34,8,"$60,001 to $90,000",60-90k,professional,QLD,married,3.033333333,Q1,3.266666667,2.7,yes,no,yes,yes,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,yes
+Female,36,3,"$120,001 to $150,000",>120k,professional,VIC,married,3.3,Q1,3.333333333,2.482758621,yes,yes,no,yes,yes,no,yes,yes,no,yes,no,yes,no,no,no,no,yes,no,no,yes
+Female,51,2,"$60,001 to $90,000",60-90k,home-duties,QLD,married,4.266666667,Q4,4.666666667,3.25,yes,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes
+Female,26,8,"$60,001 to $90,000",60-90k,manager or administrator,QLD,married,3.633333333,Q2,2.933333333,2.7,yes,yes,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,yes
+Female,28,7,NA,NA,Clerical or service worker,NSW,married,2.933333333,Q1,4.066666667,2.333333333,yes,no,no,yes,yes,no,yes,no,no,no,no,no,yes,yes,no,yes,no,yes,no,yes
+Male,55,1,"$30,001 to $60,000",30-60k,retired,QLD,living with a partner,4.633333333,Q4,4.733333333,NA,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,35,3,"$30,001 to $60,000",30-60k,sales,SA,married,3.633333333,Q2,3.133333333,NA,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,47,8,"$210,001 to $240,000",>120k,small business owner,VIC,living with a partner,4.233333333,Q4,3.733333333,2.517241379,no,no,no,yes,no,yes,yes,yes,no,no,no,yes,yes,no,no,no,no,no,yes,yes
+Female,42,1,"Less than $30,000",<30k,Clerical or service worker,SA,separated or divorced,3.833333333,Q3,3.733333333,3,yes,no,no,no,yes,no,no,yes,yes,yes,no,no,no,yes,yes,no,no,no,no,yes
+Female,61,7,"Less than $30,000",<30k,retired,NSW,married,3.933333333,Q3,3.8,2.941176471,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,yes
+Male,70,2,"$30,001 to $60,000",30-60k,manager or administrator,VIC,married,3.266666667,Q1,3.8,1.689655172,yes,yes,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,yes
+Female,62,6,"$60,001 to $90,000",60-90k,small business owner,VIC,married,3.9,Q3,4.066666667,1.965517241,no,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,yes
+Female,59,3,"$30,001 to $60,000",30-60k,Clerical or service worker,QLD,married,4.366666667,Q4,3.933333333,3.666666667,no,yes,no,no,yes,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,no
+Male,60,3,"Less than $30,000",<30k,retired,NSW,single,4.1,Q3,3.466666667,2.866666667,yes,no,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,yes
+Male,22,3,"$90,001 to $120,000",90-120k,professional,NSW,single,2.8,Q1,2.733333333,2.066666667,yes,yes,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no
+Male,64,6,"$60,001 to $90,000",60-90k,manager or administrator,VIC,married,4.7,Q4,3.8,3.464285714,yes,no,no,no,yes,no,yes,yes,yes,yes,no,no,yes,yes,yes,yes,no,no,no,no
+Male,35,7,"Less than $30,000",<30k,professional,Tas,single,2.866666667,Q1,3,2.166666667,yes,no,no,no,yes,no,yes,no,no,yes,no,no,yes,no,no,no,yes,no,yes,yes
+Male,64,7,"$30,001 to $60,000",30-60k,retired,NSW,married,3.8,Q2,4.266666667,3.176470588,yes,no,no,no,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,no,yes,yes,yes
+Male,43,7,"Less than $30,000",<30k,professional,QLD,single,4.133333333,Q3,4,3.466666667,yes,no,no,yes,yes,no,yes,yes,no,yes,no,no,yes,yes,no,no,no,no,yes,yes
+Male,45,3,"$60,001 to $90,000",60-90k,transport worker,QLD,married,4.033333333,Q3,3.133333333,2.833333333,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Female,52,6,"more than $240,001",>120k,professional,VIC,married,4.566666667,Q4,4.733333333,3.821428571,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,yes,yes,no,yes,no,no,yes,yes
+Female,52,2,"$30,001 to $60,000",30-60k,NA,NSW,married,3.933333333,Q3,3.2,3.294117647,yes,yes,no,yes,yes,no,yes,yes,yes,yes,no,no,yes,no,no,no,no,yes,yes,yes
+Female,28,6,"$90,001 to $120,000",90-120k,manager or administrator,VIC,married,3.733333333,Q2,3.466666667,2.233333333,yes,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes
+Male,64,3,"$30,001 to $60,000",30-60k,retired,VIC,married,3.733333333,Q2,4.266666667,3.555555556,yes,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,yes,no,no,yes
+Male,39,3,"Less than $30,000",<30k,tradesperson,WA,single,3.566666667,Q2,3.666666667,2.633333333,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,41,1,"$30,001 to $60,000",30-60k,unemployed,VIC,married,3.866666667,Q3,4.266666667,2.392857143,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Female,62,2,"Less than $30,000",<30k,retired,VIC,married,4.466666667,Q4,4.4,NA,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes,yes,no,yes,yes,no,yes,no
+Male,62,6,"$30,001 to $60,000",30-60k,retired,VIC,married,3.5,Q2,3.133333333,2.833333333,yes,no,no,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,no,yes,yes,yes
+Male,38,7,"$60,001 to $90,000",60-90k,professional,NSW,single,4.466666667,Q4,3.8,3,yes,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,no,no,no,no,yes,no
+Female,37,3,"$30,001 to $60,000",30-60k,Clerical or service worker,NSW,married,3.5,Q2,3.6,2.892857143,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no
+Male,33,6,"$30,001 to $60,000",30-60k,Clerical or service worker,QLD,separated or divorced,3.233333333,Q1,3.933333333,2.777777778,yes,no,no,yes,yes,no,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,yes,no,yes
+Female,41,4,"$60,001 to $90,000",60-90k,home-duties,NSW,married,2.566666667,Q1,4.266666667,1.633333333,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes
+Female,37,3,"$30,001 to $60,000",30-60k,unemployed,VIC,living with a partner,4.366666667,Q4,4.866666667,4.222222222,yes,no,no,yes,yes,no,yes,yes,no,yes,no,no,yes,no,no,yes,yes,no,no,yes
+Female,64,2,"Less than $30,000",<30k,home-duties,VIC,married,4.1,Q3,4.133333333,3.4,yes,no,no,no,no,no,no,no,yes,yes,no,yes,no,yes,yes,yes,yes,no,no,yes
+Male,56,3,"$30,001 to $60,000",30-60k,manager or administrator,SA,NA,4.2,Q3,4.2,3,yes,yes,no,no,yes,no,no,yes,no,yes,no,no,yes,yes,yes,yes,no,yes,no,yes
+Female,50,4,"Less than $30,000",<30k,home-duties,VIC,single,4.066666667,Q3,3.933333333,4.222222222,yes,yes,no,yes,yes,yes,yes,no,no,yes,yes,no,no,no,yes,no,yes,no,no,yes
+Male,52,4,"$60,001 to $90,000",60-90k,professional,Tas,married,3.866666667,Q3,4.666666667,3.2,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,34,8,"Less than $30,000",<30k,professional,QLD,separated or divorced,3.033333333,Q1,3.466666667,1.909090909,yes,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes
+Female,62,2,"Less than $30,000",<30k,manager or administrator,WA,married,4.266666667,Q4,4.333333333,2,yes,no,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,yes,no,no
+Male,19,3,"$60,001 to $90,000",60-90k,sales,QLD,single,4.833333333,Q4,3.2,3.827586207,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,no
+Male,55,1,"Less than $30,000",<30k,manager or administrator,NSW,married,2.833333333,Q1,3.133333333,3.2,yes,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no
+Male,35,7,"$150,001 to $180,000",>120k,manager or administrator,VIC,single,3,Q1,3.6,1.933333333,yes,yes,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,yes,no,yes,yes
+Female,46,6,"Less than $30,000",<30k,Clerical or service worker,NSW,separated or divorced,4.066666667,Q3,3.2,2.8,yes,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no
+Male,62,2,"$150,001 to $180,000",>120k,tradesperson,NSW,married,4.366666667,Q4,3.866666667,4.090909091,yes,no,no,no,yes,no,yes,yes,no,no,no,no,yes,no,no,yes,no,no,yes,yes
+Female,56,7,"$60,001 to $90,000",60-90k,professional,NT,separated or divorced,3.766666667,Q2,3.4,3.5,yes,no,no,yes,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,yes
+Female,22,7,"$60,001 to $90,000",60-90k,professional,VIC,single,3.533333333,Q2,3.466666667,3.5625,yes,yes,no,no,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,no,no,no,no
+Female,67,4,"$60,001 to $90,000",60-90k,retired,SA,married,4.866666667,Q4,3.666666667,3.714285714,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,29,7,"$60,001 to $90,000",60-90k,manager or administrator,NSW,single,3.4,Q2,3.866666667,3.033333333,yes,no,yes,yes,no,no,yes,yes,no,yes,yes,yes,no,no,no,no,no,yes,no,no
+Female,20,3,"$60,001 to $90,000",60-90k,manager or administrator,QLD,single,3.166666667,Q1,2.8,1.75862069,yes,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,no,no,no,no,no,no,no,no
+Male,53,2,"$30,001 to $60,000",30-60k,home-duties,SA,married,4.233333333,Q4,4,2.692307692,yes,no,no,no,yes,no,no,yes,no,yes,no,no,yes,no,yes,no,no,no,no,yes
+Female,31,3,"Less than $30,000",<30k,home-duties,Tas,married,1.333333333,Q1,3.533333333,4.6,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,27,6,"more than $240,001",>120k,professional,WA,living with a partner,4.5,Q4,4.4,3.62962963,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,yes,yes,no,yes,no,no,yes,yes
+Female,45,6,"$30,001 to $60,000",30-60k,manager or administrator,NSW,married,3.733333333,Q2,3.333333333,2.333333333,yes,no,yes,yes,no,no,yes,yes,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes
+Female,59,1,NA,NA,retired,VIC,married,3.933333333,Q3,3.333333333,2.8,yes,no,no,yes,yes,no,no,yes,yes,yes,yes,no,yes,no,no,no,no,yes,yes,yes
+Male,32,6,"$30,001 to $60,000",30-60k,manager or administrator,VIC,married,3.3,Q1,2.333333333,3.470588235,yes,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,yes
+Male,57,2,"$90,001 to $120,000",90-120k,small business owner,WA,married,4.566666667,Q4,4.6,4,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,yes,no,yes,no,no,no,yes
+Female,56,8,"$60,001 to $90,000",60-90k,professional,NSW,married,4.066666667,Q3,4.133333333,2.35,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,no,no,no,no,yes,no,yes,yes,yes
+Female,37,3,"$60,001 to $90,000",60-90k,manager or administrator,VIC,married,3.4,Q2,3.933333333,3.058823529,no,yes,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no
+Female,48,4,"$90,001 to $120,000",90-120k,professional,QLD,married,3.7,Q2,3.6,3.222222222,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+Female,53,2,"$30,001 to $60,000",30-60k,Clerical or service worker,VIC,married,4.1,Q3,3.6,2.789473684,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes
+Female,26,7,"$60,001 to $90,000",60-90k,manager or administrator,QLD,married,2.566666667,Q1,3.466666667,1.733333333,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes
+Male,36,3,"$30,001 to $60,000",30-60k,professional,VIC,separated or divorced,3.533333333,Q2,4.133333333,2.6,yes,no,yes,no,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes
+Female,40,3,"$60,001 to $90,000",60-90k,Clerical or service worker,NSW,married,3.5,Q2,3.866666667,3.133333333,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no
+Male,62,1,"$30,001 to $60,000",30-60k,small business owner,QLD,married,3.766666667,Q2,4.066666667,3.7,yes,no,no,no,no,no,yes,no,yes,yes,no,yes,no,yes,yes,yes,yes,no,no,yes
+Female,40,2,NA,NA,Clerical or service worker,NSW,single,2.9,Q1,2.933333333,2.230769231,yes,yes,no,no,no,no,yes,yes,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes
+Male,66,3,"Less than $30,000",<30k,retired,QLD,separated or divorced,3.333333333,Q1,3.6,2.366666667,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Female,39,1,"$30,001 to $60,000",30-60k,unemployed,VIC,married,3.966666667,Q3,3.6,NA,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,58,7,"$30,001 to $60,000",30-60k,professional,NSW,separated or divorced,4.033333333,Q3,3.133333333,3.466666667,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,60,8,"$90,001 to $120,000",90-120k,professional,NSW,married,4.033333333,Q3,3.6,3.269230769,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes
+Female,46,2,"$120,001 to $150,000",>120k,manager or administrator,NSW,married,4.066666667,Q3,4.266666667,4.05,yes,no,no,no,no,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes
+Female,35,3,"$30,001 to $60,000",30-60k,manager or administrator,QLD,married,2.733333333,Q1,3.066666667,2.033333333,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,yes,no,yes,no,no,yes
+Female,39,3,"Less than $30,000",<30k,home-duties,QLD,married,3.2,Q1,3.133333333,2,yes,yes,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,yes
+Female,42,1,"Less than $30,000",<30k,unemployed,VIC,single,2.8,Q1,3.333333333,NA,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,22,6,"$120,001 to $150,000",>120k,sales,VIC,single,4.233333333,Q4,3.8,3.172413793,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,no
+Male,46,2,"Less than $30,000",<30k,small business owner,QLD,married,4.533333333,Q4,2.866666667,2.7,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Male,22,7,"$30,001 to $60,000",30-60k,professional,VIC,single,1.633333333,Q1,3.133333333,1.933333333,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,no
+Female,41,2,"Less than $30,000",<30k,sales,SA,separated or divorced,4.1,Q3,3.866666667,2.833333333,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,36,3,NA,NA,home-duties,SA,married,3.2,Q1,4.066666667,4.095238095,yes,no,no,yes,yes,no,yes,yes,no,yes,no,no,yes,yes,yes,no,no,no,no,yes
+Female,29,7,"$30,001 to $60,000",30-60k,manager or administrator,VIC,single,3.766666667,Q2,3.466666667,2.285714286,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,yes,yes,no,no,no,no,no,no,yes
+Female,47,6,"$90,001 to $120,000",90-120k,sales,NSW,married,4.5,Q4,3.866666667,3.166666667,no,no,no,yes,yes,yes,yes,yes,no,yes,yes,no,yes,no,no,yes,no,yes,yes,yes
+Male,55,8,"$150,001 to $180,000",>120k,professional,VIC,living with a partner,3.466666667,Q2,3.266666667,2.433333333,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,yes
+Male,19,1,"$60,001 to $90,000",60-90k,unemployed,SA,single,3.5,Q2,3.6,2.052631579,yes,yes,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,no,no,no,no,yes
+Female,57,1,"$30,001 to $60,000",30-60k,home-duties,SA,separated or divorced,4.7,Q4,4,4.142857143,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,no,no,no
+Female,29,8,"$60,001 to $90,000",60-90k,NA,ACT,married,3.933333333,Q3,3.066666667,2.96,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,yes,no,yes,yes
+Male,59,1,"$60,001 to $90,000",60-90k,manager or administrator,VIC,married,3.666666667,Q2,3.733333333,2.733333333,yes,no,no,yes,yes,no,yes,no,no,yes,no,yes,no,no,no,yes,no,yes,no,yes
+Female,38,6,"$30,001 to $60,000",30-60k,Clerical or service worker,NSW,single,3.8,Q2,3.8,3.888888889,yes,no,no,yes,yes,no,yes,yes,no,yes,no,no,yes,no,no,no,no,no,yes,yes
+Male,51,7,"$60,001 to $90,000",60-90k,manager or administrator,QLD,married,3.233333333,Q1,3.933333333,3.1,yes,yes,no,yes,yes,no,yes,yes,yes,yes,yes,no,yes,no,yes,no,yes,no,no,yes
+Male,46,3,"$30,001 to $60,000",30-60k,small business owner,QLD,married,3.866666667,Q3,3.333333333,4.75,yes,no,no,no,yes,no,yes,yes,yes,yes,no,no,no,no,no,no,yes,yes,no,yes
+Female,49,8,"$60,001 to $90,000",60-90k,manager or administrator,WA,married,4.266666667,Q4,3.933333333,3.692307692,no,no,no,yes,yes,no,no,yes,no,no,no,no,yes,yes,no,yes,no,yes,no,yes
+Male,56,7,"$60,001 to $90,000",60-90k,sales,VIC,living with a partner,3.8,Q2,3,2.633333333,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,yes
+Female,56,6,"$60,001 to $90,000",60-90k,Clerical or service worker,NSW,married,4.333333333,Q4,3.6,2.3125,yes,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,yes,no,yes,no,yes
+Male,41,6,"$60,001 to $90,000",60-90k,manager or administrator,VIC,married,3.566666667,Q2,3.666666667,2.384615385,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Male,65,3,"Less than $30,000",<30k,retired,VIC,separated or divorced,3.4,Q2,4.466666667,3.038461538,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no
+Male,42,3,"$30,001 to $60,000",30-60k,small business owner,NSW,married,3.533333333,Q2,2.733333333,2.133333333,yes,no,no,no,no,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,yes
+Male,65,8,"more than $240,001",>120k,manager or administrator,NSW,married,4.566666667,Q4,4.333333333,3.433333333,yes,yes,yes,yes,yes,no,yes,yes,no,yes,no,no,yes,no,no,yes,no,no,yes,yes
+Female,37,8,"$60,001 to $90,000",60-90k,professional,VIC,married,3.6,Q2,3.733333333,2.826086957,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,yes,no,no,yes,no,yes,yes,no
+Male,20,6,"$30,001 to $60,000",30-60k,unemployed,VIC,single,3.033333333,Q1,3.933333333,2.862068966,yes,yes,yes,yes,no,no,no,yes,no,yes,yes,yes,yes,no,no,no,no,no,no,yes
+Female,39,8,"$60,001 to $90,000",60-90k,professional,QLD,single,4.2,Q3,4.266666667,3.620689655,yes,yes,no,no,yes,no,yes,no,no,yes,no,no,yes,yes,no,yes,no,no,no,yes
+Male,37,3,"$90,001 to $120,000",90-120k,professional,QLD,married,3.033333333,Q1,3.066666667,2.3,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,yes
+Female,45,7,"$120,001 to $150,000",>120k,manager or administrator,QLD,married,4.3,Q4,4.066666667,2.133333333,yes,no,no,no,no,no,yes,no,no,yes,no,yes,yes,no,no,yes,no,no,no,yes
+Male,41,6,"$60,001 to $90,000",60-90k,transport worker,QLD,married,4.1,Q3,4.4,2.821428571,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no
+Male,39,4,"$30,001 to $60,000",30-60k,Clerical or service worker,VIC,single,3.8,Q2,4.133333333,3.538461538,yes,no,no,yes,no,no,yes,yes,no,yes,yes,no,no,no,no,no,no,no,no,yes
+Female,21,7,"$30,001 to $60,000",30-60k,manager or administrator,NSW,single,4.4,Q4,4.133333333,3.068965517,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,yes
+Female,43,1,"$30,001 to $60,000",30-60k,manager or administrator,WA,living with a partner,4.8,Q4,3.066666667,4.466666667,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,24,3,"Less than $30,000",<30k,Clerical or service worker,VIC,single,3.333333333,Q1,3.6,2.166666667,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,no
+Male,49,6,"$60,001 to $90,000",60-90k,professional,QLD,living with a partner,3.8,Q2,3.933333333,3.166666667,yes,no,yes,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,no
+Male,32,7,"$30,001 to $60,000",30-60k,professional,VIC,married,3.633333333,Q2,3.066666667,3.178571429,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,36,6,"$30,001 to $60,000",30-60k,tradesperson,VIC,married,3.933333333,Q3,3.133333333,3.1875,yes,no,no,yes,no,no,yes,yes,no,yes,no,yes,yes,yes,no,yes,no,no,no,yes
+Female,36,4,"$120,001 to $150,000",>120k,Clerical or service worker,QLD,married,4.3,Q4,4.466666667,3.631578947,yes,no,no,no,no,no,no,yes,no,yes,no,yes,yes,no,no,yes,no,no,no,no
+Male,72,6,NA,NA,NA,QLD,married,4.6,Q4,4.266666667,4.36,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,yes,yes,no,yes,yes,no
+Male,67,6,"Less than $30,000",<30k,retired,Tas,married,3.4,Q2,2.8,2.954545455,yes,no,no,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,yes
+Male,24,7,"$150,001 to $180,000",>120k,professional,VIC,single,4,Q3,3.066666667,3.833333333,yes,no,yes,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no
+Female,42,8,"$30,001 to $60,000",30-60k,professional,QLD,married,3.966666667,Q3,4.066666667,3.666666667,yes,no,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,yes,yes,yes
+Male,29,7,"$90,001 to $120,000",90-120k,professional,VIC,living with a partner,3.5,Q2,3.866666667,3.1875,yes,yes,yes,yes,yes,no,yes,yes,no,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes
+Female,55,4,"$120,001 to $150,000",>120k,professional,QLD,married,3.766666667,Q2,3.066666667,2.8,yes,yes,no,yes,yes,no,yes,yes,no,yes,no,yes,yes,no,no,yes,no,no,no,yes
+Male,67,4,"$60,001 to $90,000",60-90k,retired,VIC,married,4.433333333,Q4,3.133333333,3.133333333,yes,no,yes,yes,yes,no,no,no,no,yes,no,no,yes,yes,yes,yes,no,yes,yes,no
+Male,25,7,"$60,001 to $90,000",60-90k,professional,VIC,single,3.866666667,Q3,3.666666667,2.157894737,yes,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Female,42,8,"$120,001 to $150,000",>120k,manager or administrator,NSW,married,3.933333333,Q3,4.733333333,3.1,yes,no,no,yes,yes,no,no,yes,no,yes,no,no,yes,yes,yes,yes,no,yes,yes,yes
+Male,41,7,"$30,001 to $60,000",30-60k,professional,VIC,single,1,Q1,3.2,2.533333333,yes,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,no
+Female,29,8,"$90,001 to $120,000",90-120k,transport worker,NSW,single,4.933333333,Q4,4,3.633333333,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,yes
+Male,28,4,"$30,001 to $60,000",30-60k,labourer,Tas,single,3.366666667,Q1,3.466666667,2.466666667,no,yes,yes,yes,no,no,yes,no,no,yes,no,yes,no,no,no,yes,no,no,no,no
+Female,63,1,"$30,001 to $60,000",30-60k,home-duties,VIC,married,4.233333333,Q4,4.066666667,3.448275862,yes,no,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,yes,no,no,no,no,yes
+Female,42,6,"$90,001 to $120,000",90-120k,Clerical or service worker,NSW,living with a partner,3.433333333,Q2,2.666666667,2.6,yes,yes,no,yes,yes,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no
+Female,47,6,"$120,001 to $150,000",>120k,manager or administrator,NSW,married,4.2,Q3,3.733333333,2.642857143,yes,no,no,yes,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no
+Female,55,2,"$60,001 to $90,000",60-90k,Clerical or service worker,NSW,separated or divorced,3.733333333,Q2,3.8,2.684210526,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,no
+Female,41,6,"$30,001 to $60,000",30-60k,professional,NSW,living with a partner,3.966666667,Q3,3.666666667,3.192307692,no,yes,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no
+Female,55,2,NA,NA,NA,NSW,separated or divorced,3.733333333,Q2,4,NA,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,no
+Female,58,3,"$120,001 to $150,000",>120k,home-duties,VIC,married,3.733333333,Q2,3.933333333,3.777777778,yes,yes,no,no,no,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no
+Female,55,NA,"$150,001 to $180,000",>120k,professional,NSW,married,3.733333333,Q2,3.066666667,4.133333333,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,29,6,"$30,001 to $60,000",30-60k,manager or administrator,SA,living with a partner,4.733333333,Q4,4.6,3.75862069,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,no,no,no,no,yes,yes
+Male,59,8,"Less than $30,000",<30k,professional,NT,single,3.366666667,Q1,4.266666667,3.133333333,yes,no,no,no,no,no,yes,yes,no,yes,yes,no,yes,no,no,no,no,no,no,yes
+Male,44,3,"$60,001 to $90,000",60-90k,professional,WA,married,4.2,Q3,3.6,3.8125,yes,no,no,yes,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,yes
+Male,39,3,"Less than $30,000",<30k,professional,QLD,living with a partner,3.866666667,Q3,4.933333333,3.222222222,yes,no,no,no,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,no,no,no,yes,no
+Female,40,2,"Less than $30,000",<30k,home-duties,QLD,separated or divorced,2.6,Q1,2.6,1.913043478,yes,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,yes
+Female,61,2,NA,NA,home-duties,NSW,married,4.333333333,Q4,3.6,4.444444444,no,no,no,yes,yes,no,no,no,no,no,no,no,yes,yes,no,yes,yes,no,yes,yes
+Female,19,7,"$30,001 to $60,000",30-60k,unemployed,WA,single,2.6,Q1,3.2,2.3,yes,yes,no,yes,yes,no,yes,no,yes,yes,yes,yes,yes,no,no,no,no,no,yes,yes
+Male,28,7,"$60,001 to $90,000",60-90k,professional,NSW,single,4.7,Q4,3.466666667,4.033333333,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Female,46,7,"$90,001 to $120,000",90-120k,manager or administrator,NSW,living with a partner,4.4,Q4,3.466666667,2.5,yes,yes,no,no,yes,no,yes,yes,no,yes,yes,no,yes,no,yes,yes,no,yes,yes,yes
+Female,38,3,"$30,001 to $60,000",30-60k,labourer,SA,married,4.9,Q4,4,3.833333333,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,44,2,"Less than $30,000",<30k,tradesperson,NSW,married,4,Q3,3.666666667,3.7,yes,no,no,yes,yes,no,no,yes,yes,no,no,no,yes,yes,no,no,no,no,yes,yes
+Female,56,8,"$30,001 to $60,000",30-60k,professional,NSW,separated or divorced,4.3,Q4,3.6,3.172413793,yes,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,no,no
+Male,37,8,"$120,001 to $150,000",>120k,small business owner,QLD,married,3.9,Q3,3.533333333,2.433333333,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,24,7,"$60,001 to $90,000",60-90k,professional,WA,single,3.366666667,Q1,2.866666667,2.464285714,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes
+Male,27,8,"$210,001 to $240,000",>120k,professional,VIC,living with a partner,1.2,Q1,3.666666667,1.689655172,yes,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,yes
+Male,24,8,"more than $240,001",>120k,tradesperson,QLD,single,4.533333333,Q4,4.133333333,3.733333333,yes,yes,yes,no,yes,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,no,yes
+Male,68,6,"Less than $30,000",<30k,retired,QLD,married,4.066666667,Q3,4.733333333,3.625,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,61,3,"$30,001 to $60,000",30-60k,retired,VIC,married,4.3,Q4,3,1.789473684,yes,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,yes,yes,no,no
+Male,22,3,"$30,001 to $60,000",30-60k,labourer,QLD,single,3.266666667,Q1,4.466666667,2.433333333,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no
+Female,55,1,"$30,001 to $60,000",30-60k,small business owner,NSW,married,4.066666667,Q3,3.666666667,4,yes,no,no,no,yes,no,no,no,yes,yes,no,no,no,yes,yes,yes,no,no,no,no
+Female,62,1,"$30,001 to $60,000",30-60k,Clerical or service worker,VIC,married,3.766666667,Q2,2.8,3.217391304,yes,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Female,23,7,"$60,001 to $90,000",60-90k,professional,QLD,married,4.133333333,Q3,3.466666667,3,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes,no,yes,yes,yes,yes,yes,yes
+Male,35,1,"$30,001 to $60,000",30-60k,tradesperson,NSW,married,4.2,Q3,3.266666667,2.9,yes,no,no,yes,yes,no,yes,no,no,yes,no,yes,yes,no,no,yes,no,no,no,yes
+Female,65,1,"Less than $30,000",<30k,retired,QLD,married,4.033333333,Q3,3.2,2.48,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,yes
+Female,44,4,"$30,001 to $60,000",30-60k,manager or administrator,SA,separated or divorced,3.933333333,Q3,3.666666667,3.310344828,yes,no,no,no,no,yes,yes,yes,no,yes,no,yes,no,no,no,yes,no,no,no,yes
+Male,56,8,"$90,001 to $120,000",90-120k,small business owner,NSW,married,3.366666667,Q1,3.6,2.857142857,no,no,no,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Female,39,4,"$90,001 to $120,000",90-120k,Clerical or service worker,QLD,married,4.4,Q4,3.066666667,4.090909091,yes,yes,no,no,yes,no,yes,no,yes,yes,no,no,yes,yes,no,yes,yes,yes,yes,yes
+Male,56,8,"$60,001 to $90,000",60-90k,manager or administrator,QLD,separated or divorced,4.5,Q4,3.866666667,4.642857143,yes,yes,no,no,no,no,no,yes,no,no,yes,yes,yes,yes,no,yes,no,yes,no,yes
+Female,37,6,"Less than $30,000",<30k,home-duties,NSW,married,3.866666667,Q3,3.4,3.857142857,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Female,57,3,"Less than $30,000",<30k,home-duties,WA,married,4.7,Q4,4.733333333,3.566666667,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no
+Male,23,7,"Less than $30,000",<30k,sales,QLD,single,3.066666667,Q1,3.466666667,2.6,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Male,53,2,"$60,001 to $90,000",60-90k,sales,SA,married,3.866666667,Q3,3.866666667,2.785714286,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Male,35,7,"$60,001 to $90,000",60-90k,professional,ACT,married,3.833333333,Q3,3.666666667,2.285714286,yes,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,yes
+Male,61,3,"Less than $30,000",<30k,retired,NSW,married,2.9,Q1,3.666666667,2.95,yes,no,yes,yes,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,yes
+Female,48,4,"$90,001 to $120,000",90-120k,professional,QLD,married,4.466666667,Q4,4.333333333,2.833333333,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,yes,yes,no,yes,no,yes,no,yes
+Female,58,8,"$60,001 to $90,000",60-90k,professional,VIC,married,4.233333333,Q4,3.266666667,3.333333333,yes,no,no,yes,no,no,no,yes,no,yes,no,yes,no,no,yes,no,no,yes,no,yes
+Male,27,8,"$30,001 to $60,000",30-60k,unemployed,NSW,single,3.466666667,Q2,2.933333333,2.740740741,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,no,no
+Female,67,4,"$60,001 to $90,000",60-90k,retired,VIC,married,4.233333333,Q4,4.266666667,3.137931034,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,yes,no,yes,yes,no
+Male,45,3,"$60,001 to $90,000",60-90k,manager or administrator,NSW,married,5,Q4,2.866666667,4.7,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Male,41,2,"$60,001 to $90,000",60-90k,professional,NSW,married,3.733333333,Q2,3.066666667,NA,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,41,2,"$90,001 to $120,000",90-120k,labourer,QLD,married,2.466666667,Q1,3.133333333,2.090909091,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Female,61,4,"$30,001 to $60,000",30-60k,Clerical or service worker,NSW,married,4.4,Q4,4.266666667,4.363636364,no,no,no,yes,yes,no,yes,yes,no,no,no,yes,yes,no,no,yes,no,yes,yes,no
+Female,63,1,"Less than $30,000",<30k,home-duties,NSW,married,3.7,Q2,3.8,3.222222222,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no
+Female,43,4,NA,NA,Clerical or service worker,NSW,married,3.933333333,Q3,4.333333333,2.769230769,yes,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,no,yes
+Female,67,2,"Less than $30,000",<30k,NA,NSW,separated or divorced,3.666666667,Q2,3.466666667,2.3,yes,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Female,55,2,"$30,001 to $60,000",30-60k,manager or administrator,NSW,married,4.033333333,Q3,3.866666667,3.947368421,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,yes,no,yes,no,yes,no,yes
+Male,23,7,"$150,001 to $180,000",>120k,manager or administrator,VIC,single,1.933333333,Q1,2.733333333,1.535714286,no,no,no,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,yes,yes
+Female,42,7,NA,NA,professional,NSW,living with a partner,3.533333333,Q2,4.866666667,2.592592593,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no
+Female,61,1,"$30,001 to $60,000",30-60k,Clerical or service worker,QLD,widowed,3.6,Q2,3.2,2.1,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,yes,no,yes,no,no,no
+Male,38,7,"$120,001 to $150,000",>120k,professional,SA,married,2.933333333,Q1,3.266666667,1.866666667,no,no,no,no,no,no,no,yes,no,yes,no,yes,yes,no,no,no,no,no,yes,yes
+Male,24,7,"$60,001 to $90,000",60-90k,sales,NSW,living with a partner,3.466666667,Q2,3.733333333,3.578947368,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes
+Male,51,7,"$90,001 to $120,000",90-120k,professional,QLD,married,3.133333333,Q1,3.133333333,2.310344828,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,yes,yes,no,yes
+Female,38,7,"$120,001 to $150,000",>120k,Clerical or service worker,VIC,living with a partner,3.866666667,Q3,3.066666667,2.928571429,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes
+Male,37,8,"$60,001 to $90,000",60-90k,professional,QLD,married,3.3,Q1,3.4,2.730769231,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,yes
+Female,24,4,"Less than $30,000",<30k,unemployed,NSW,married,3.033333333,Q1,3.733333333,2.363636364,yes,yes,no,yes,yes,no,yes,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes
+Female,46,1,"$90,001 to $120,000",90-120k,home-duties,VIC,married,4.3,Q4,4.133333333,3.285714286,yes,no,no,yes,no,no,yes,no,no,no,no,yes,no,yes,no,yes,no,no,no,yes
+Male,27,6,"$60,001 to $90,000",60-90k,labourer,QLD,married,4.1,Q3,3.6,2.653846154,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no
+Female,35,1,"Less than $30,000",<30k,small business owner,VIC,living with a partner,3.566666667,Q2,3.666666667,2.821428571,yes,yes,no,yes,yes,no,yes,yes,no,no,yes,no,yes,no,yes,no,no,no,no,yes
+Male,50,6,"$60,001 to $90,000",60-90k,tradesperson,NSW,married,2.933333333,Q1,2.933333333,1.88,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes
+Female,37,6,"Less than $30,000",<30k,home-duties,QLD,single,4.366666667,Q4,4,NA,yes,no,yes,yes,yes,yes,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes
+Female,36,7,"$60,001 to $90,000",60-90k,Clerical or service worker,VIC,married,3.733333333,Q2,3.533333333,2.413793103,yes,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,yes,no,yes,yes,yes
+Male,38,8,"$120,001 to $150,000",>120k,manager or administrator,NSW,living with a partner,3.666666667,Q2,4.666666667,2.64,yes,yes,no,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes
+Male,30,8,"$30,001 to $60,000",30-60k,professional,NSW,married,2.666666667,Q1,3.8,2.407407407,no,no,yes,no,no,no,yes,yes,no,no,yes,no,no,no,no,no,yes,yes,no,yes
+Female,31,3,"$30,001 to $60,000",30-60k,home-duties,QLD,married,4.4,Q4,3.2,3.75,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,no
+Female,55,1,"Less than $30,000",<30k,sales,WA,separated or divorced,3.866666667,Q3,4,2.433333333,yes,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes
+Male,46,3,"$90,001 to $120,000",90-120k,manager or administrator,QLD,living with a partner,4.2,Q3,4,3.464285714,no,no,no,no,yes,no,yes,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes
+Female,22,7,"Less than $30,000",<30k,professional,VIC,single,3.966666667,Q3,4.066666667,4.44,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,26,8,"$120,001 to $150,000",>120k,professional,NSW,single,3.433333333,Q2,3.8,2.555555556,yes,no,no,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,yes,no
+Female,42,4,"Less than $30,000",<30k,home-duties,NSW,separated or divorced,4.166666667,Q3,3,2.2,yes,no,no,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,yes
+Male,58,2,"$30,001 to $60,000",30-60k,manager or administrator,NSW,single,3.133333333,Q1,4.266666667,1.9375,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes
+Male,24,7,"$150,001 to $180,000",>120k,manager or administrator,NSW,single,4.566666667,Q4,3.066666667,4.266666667,yes,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no
+Female,63,1,"Less than $30,000",<30k,home-duties,QLD,separated or divorced,2.933333333,Q1,3.2,2.636363636,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Male,42,1,NA,NA,tradesperson,VIC,married,4,Q3,3.4,2.807692308,yes,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,no,yes,no,no,no,no,yes
+Female,59,2,"$30,001 to $60,000",30-60k,Clerical or service worker,NSW,separated or divorced,4.5,Q4,2.333333333,2.3,no,no,no,yes,no,no,yes,no,no,yes,yes,yes,yes,no,no,no,yes,no,no,yes
+Male,45,6,"$90,001 to $120,000",90-120k,manager or administrator,NSW,married,3.833333333,Q3,4,3,yes,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes
+Female,62,4,NA,NA,Clerical or service worker,NSW,married,3.133333333,Q1,3.533333333,2.5,yes,yes,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,yes
+Male,26,6,"$60,001 to $90,000",60-90k,manager or administrator,VIC,single,4.1,Q3,3.866666667,2.896551724,yes,no,yes,yes,yes,no,yes,yes,no,yes,no,yes,yes,yes,no,no,no,yes,yes,yes
+Female,24,8,NA,NA,NA,VIC,single,4,Q3,3.866666667,2.363636364,yes,no,no,yes,yes,no,yes,yes,no,no,yes,no,yes,no,no,no,yes,no,yes,yes
+Female,58,8,"$150,001 to $180,000",>120k,manager or administrator,VIC,married,4.2,Q3,4.2,3.722222222,yes,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes
+Male,72,1,"Less than $30,000",<30k,sales,ACT,widowed,3.033333333,Q1,2.866666667,3.666666667,no,no,no,no,yes,no,no,yes,no,yes,no,no,yes,no,yes,no,no,no,no,yes
+Male,30,7,"$60,001 to $90,000",60-90k,professional,VIC,married,3.366666667,Q1,2.866666667,1.966666667,yes,yes,yes,yes,no,no,yes,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no
+Female,60,7,"$60,001 to $90,000",60-90k,home-duties,SA,married,4.2,Q3,4.466666667,3,no,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,yes,no,yes,no,no
+Female,47,4,"$60,001 to $90,000",60-90k,manager or administrator,NSW,married,4.5,Q4,3.666666667,3.666666667,yes,no,no,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,no,no,yes,no,yes
+Female,56,6,"Less than $30,000",<30k,unemployed,QLD,widowed,3.533333333,Q2,2.8,4.25,yes,no,no,yes,yes,no,no,yes,no,yes,no,no,no,yes,yes,yes,no,no,no,yes
+Female,32,1,"Less than $30,000",<30k,home-duties,SA,married,4.933333333,Q4,4.2,4.035714286,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes
+Female,29,7,"$60,001 to $90,000",60-90k,professional,WA,separated or divorced,4.333333333,Q4,3.8,1.833333333,yes,no,no,no,yes,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,yes,yes
+Female,28,7,"$60,001 to $90,000",60-90k,Clerical or service worker,NSW,married,4.233333333,Q4,4.2,3.333333333,yes,yes,no,no,no,yes,yes,yes,no,yes,no,no,yes,no,no,no,no,yes,yes,yes
+Female,32,3,"$30,001 to $60,000",30-60k,home-duties,QLD,married,4.1,Q3,3.333333333,3.875,yes,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no
+Male,40,2,"$90,001 to $120,000",90-120k,manager or administrator,VIC,living with a partner,3.533333333,Q2,4.266666667,2.107142857,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,yes
+Female,23,7,"$30,001 to $60,000",30-60k,unemployed,NSW,single,3.366666667,Q1,3.733333333,2.6,yes,yes,no,yes,yes,no,yes,yes,no,yes,no,no,yes,no,yes,no,no,yes,yes,yes
+Male,57,7,"$60,001 to $90,000",60-90k,manager or administrator,QLD,living with a partner,4.233333333,Q4,4,3.052631579,yes,yes,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,yes,no,yes
+Female,37,6,"$60,001 to $90,000",60-90k,Clerical or service worker,VIC,married,3.533333333,Q2,3.4,2.517241379,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no
+Male,39,7,"$90,001 to $120,000",90-120k,professional,NSW,married,5,Q4,3.333333333,3.379310345,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,57,7,"$30,001 to $60,000",30-60k,small business owner,WA,married,4.233333333,Q4,3.6,2.25,yes,no,no,no,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,no,yes,no,yes
+Male,35,4,"$30,001 to $60,000",30-60k,manager or administrator,SA,single,4.233333333,Q4,3.4,2.730769231,yes,no,no,yes,no,no,yes,no,yes,no,yes,no,no,yes,no,no,yes,yes,no,yes
+Male,70,3,"Less than $30,000",<30k,retired,QLD,married,3.5,Q2,3.866666667,2.448275862,yes,no,no,no,yes,no,no,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no,yes
+Male,21,6,"$60,001 to $90,000",60-90k,sales,QLD,single,4.533333333,Q4,3.6,4,yes,no,yes,yes,yes,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,no,yes,yes
+Female,30,7,"$90,001 to $120,000",90-120k,sales,NSW,single,4.4,Q4,3.533333333,2.827586207,yes,no,no,yes,yes,yes,yes,no,no,yes,no,no,yes,no,no,yes,no,yes,yes,yes
+Female,46,2,"$30,001 to $60,000",30-60k,professional,NSW,married,4.5,Q4,3.666666667,4.529411765,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes,no,yes,no,no,no,yes
+Female,61,2,"$90,001 to $120,000",90-120k,professional,QLD,separated or divorced,4.4,Q4,4.266666667,2.931034483,yes,no,no,no,no,no,yes,yes,no,yes,no,no,yes,yes,no,yes,no,no,yes,no
+Female,35,6,"$30,001 to $60,000",30-60k,manager or administrator,QLD,single,4.366666667,Q4,4.533333333,3,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no
+Male,43,3,"$60,001 to $90,000",60-90k,professional,QLD,married,3.3,Q1,3.8,2.333333333,yes,no,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,yes
+Female,57,2,"Less than $30,000",<30k,retired,NSW,separated or divorced,3.966666667,Q3,3.533333333,2.916666667,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Male,25,8,"$60,001 to $90,000",60-90k,professional,ACT,single,3.033333333,Q1,2.533333333,3.136363636,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no
+Male,21,7,"$30,001 to $60,000",30-60k,professional,VIC,single,3.6,Q2,3.466666667,2.615384615,yes,no,no,no,yes,no,yes,no,yes,yes,no,yes,no,no,no,yes,no,no,no,no
+Male,46,2,"$30,001 to $60,000",30-60k,transport worker,QLD,single,4.033333333,Q3,4.4,3.344827586,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes
+Male,59,8,"$90,001 to $120,000",90-120k,professional,VIC,married,4.433333333,Q4,2.866666667,3.8,yes,no,no,no,no,yes,no,yes,no,yes,no,no,no,yes,no,no,yes,no,no,yes
+Female,56,NA,"$30,001 to $60,000",30-60k,NA,QLD,married,4.5,Q4,4,3.066666667,yes,no,no,yes,yes,no,yes,no,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,yes
+Male,73,2,"Less than $30,000",<30k,retired,WA,married,3.566666667,Q2,3.533333333,3.166666667,yes,no,no,no,no,no,no,yes,no,yes,no,no,no,yes,no,yes,no,no,yes,yes
+Female,37,3,"$30,001 to $60,000",30-60k,retired,SA,living with a partner,3.4,Q2,4.066666667,3.238095238,yes,yes,no,no,yes,no,yes,yes,yes,yes,no,no,no,no,no,no,yes,no,no,yes
+Male,37,8,"$60,001 to $90,000",60-90k,professional,WA,living with a partner,2.766666667,Q1,4,3.3125,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,yes
+Female,58,3,"Less than $30,000",<30k,Clerical or service worker,NSW,married,3.4,Q2,3.933333333,3.041666667,yes,no,no,yes,yes,no,no,yes,no,no,no,no,no,yes,no,yes,no,yes,no,yes
+Female,28,7,NA,NA,sales,VIC,living with a partner,3.8,Q2,4.4,3.714285714,no,no,yes,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,yes,no,no,no,yes
+Male,30,4,"$120,001 to $150,000",>120k,manager or administrator,NSW,married,4.333333333,Q4,4.266666667,3.727272727,yes,yes,yes,yes,no,no,yes,no,no,yes,no,no,yes,no,no,yes,no,yes,yes,yes
+Male,61,7,"$90,001 to $120,000",90-120k,professional,WA,married,3.166666667,Q1,4.733333333,3.272727273,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no
+Female,29,7,"$30,001 to $60,000",30-60k,NA,WA,married,3.633333333,Q2,3.8,2.62962963,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,no,yes,no,no
+Female,26,3,"Less than $30,000",<30k,small business owner,WA,single,4.233333333,Q4,3.466666667,4.235294118,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes
+Female,56,7,NA,NA,NA,NSW,married,4.433333333,Q4,3.133333333,3.541666667,yes,no,no,no,yes,no,no,no,no,yes,no,no,yes,yes,no,no,yes,no,yes,yes
+Female,38,2,"Less than $30,000",<30k,NA,VIC,widowed,4.933333333,Q4,3.133333333,4.555555556,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+Male,36,3,"$30,001 to $60,000",30-60k,professional,VIC,single,3.6,Q2,2.666666667,2.88,yes,no,no,yes,yes,no,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,yes
+Female,64,1,"$60,001 to $90,000",60-90k,home-duties,NSW,married,4.233333333,Q4,3.4,4.2,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,yes
+Female,62,1,NA,NA,retired,VIC,married,2.7,Q1,2.6,2.2,yes,no,no,yes,no,yes,yes,no,no,yes,yes,no,yes,no,no,no,no,no,no,yes
+Female,33,7,"$30,001 to $60,000",30-60k,professional,QLD,married,3.1,Q1,3.6,2.739130435,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,57,6,"$120,001 to $150,000",>120k,retired,QLD,married,3.866666667,Q3,4,3.4,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,yes
+Male,39,2,"$90,001 to $120,000",90-120k,sales,VIC,married,3.133333333,Q1,3.333333333,1.733333333,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,105,7,"$120,001 to $150,000",>120k,manager or administrator,NSW,separated or divorced,4.633333333,Q4,2.933333333,3.333333333,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no
+Male,48,2,"$30,001 to $60,000",30-60k,transport worker,QLD,married,3.6,Q2,3.6,2,yes,no,no,no,no,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,yes
+Male,70,6,NA,NA,NA,NSW,married,3.233333333,Q1,3.666666667,2.793103448,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,yes
+Female,59,6,"$90,001 to $120,000",90-120k,small business owner,NSW,separated or divorced,3.966666667,Q3,4.133333333,2.2,yes,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,yes,no,yes
+Male,37,6,"$30,001 to $60,000",30-60k,Clerical or service worker,QLD,married,3,Q1,3,2.9,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,48,8,NA,NA,professional,NSW,single,4.233333333,Q4,3.466666667,3.55,yes,no,no,yes,no,no,no,yes,no,yes,no,no,yes,no,yes,no,yes,no,yes,yes
+Male,31,3,"$60,001 to $90,000",60-90k,professional,NSW,living with a partner,3.766666667,Q2,4.466666667,3.235294118,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no
+Male,47,6,"$30,001 to $60,000",30-60k,professional,NSW,single,3.433333333,Q2,4.533333333,1.666666667,yes,yes,no,yes,yes,no,yes,no,no,yes,no,no,yes,yes,no,yes,yes,yes,no,yes
+Female,32,6,"$30,001 to $60,000",30-60k,sales,NSW,married,4.166666667,Q3,3.866666667,3.6,no,no,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,yes
+Female,38,3,"$60,001 to $90,000",60-90k,professional,SA,married,4.033333333,Q3,3.2,2.5,yes,yes,no,no,yes,no,yes,no,yes,no,yes,no,yes,no,yes,yes,yes,yes,yes,yes
+Female,20,6,"$90,001 to $120,000",90-120k,sales,VIC,single,4.333333333,Q4,3.333333333,4.125,yes,no,no,no,yes,no,no,no,yes,no,no,no,yes,yes,no,no,no,yes,no,no
+Female,40,6,"$30,001 to $60,000",30-60k,unemployed,QLD,living with a partner,4.333333333,Q4,3.4,3.964285714,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes
+Female,25,7,"$30,001 to $60,000",30-60k,home-duties,VIC,living with a partner,3.466666667,Q2,3.133333333,2.733333333,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,no,yes,no,yes,no,no,no
+Male,66,8,"$210,001 to $240,000",>120k,professional,WA,married,3.566666667,Q2,3.533333333,3.266666667,yes,no,no,no,yes,no,no,yes,no,yes,no,no,yes,no,no,yes,no,no,yes,no
+Male,25,8,"$120,001 to $150,000",>120k,manager or administrator,NSW,single,3.833333333,Q3,3.6,2.357142857,yes,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,yes,no,no,yes,no,yes,yes
+Male,35,7,"Less than $30,000",<30k,small business owner,NT,living with a partner,1.333333333,Q1,2.6,1.733333333,yes,no,no,no,yes,yes,yes,no,no,yes,no,no,no,no,yes,yes,yes,yes,no,yes
+Female,39,6,NA,NA,manager or administrator,QLD,married,4.133333333,Q3,3.666666667,3.285714286,yes,no,yes,no,yes,no,yes,yes,no,yes,no,no,yes,no,yes,yes,no,yes,no,no
+Male,41,6,"$60,001 to $90,000",60-90k,professional,NSW,separated or divorced,4.1,Q3,3.2,2.3,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,yes,no,yes
+Male,35,3,"$30,001 to $60,000",30-60k,tradesperson,QLD,single,2.7,Q1,4,2.137931034,yes,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,yes
+Female,65,4,"$60,001 to $90,000",60-90k,professional,SA,married,3.9,Q3,3.6,3.7,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,yes
+Male,22,7,NA,NA,professional,ACT,living with a partner,3.533333333,Q2,4,3,yes,no,no,yes,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,yes
+Male,65,3,"$30,001 to $60,000",30-60k,professional,SA,married,3.366666667,Q1,3.133333333,1.965517241,yes,yes,no,no,no,no,no,yes,no,no,no,no,yes,no,yes,no,no,no,yes,yes
+Male,32,8,"$30,001 to $60,000",30-60k,professional,SA,married,3.333333333,Q1,4.4,2.722222222,yes,no,no,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,no
+Male,33,1,"$30,001 to $60,000",30-60k,unemployed,SA,living with a partner,3.966666667,Q3,3.666666667,3.2,yes,no,no,yes,yes,yes,no,yes,no,yes,no,no,yes,no,no,yes,no,no,no,yes
+Male,58,1,"$30,001 to $60,000",30-60k,small business owner,VIC,married,3.066666667,Q1,4.266666667,3.115384615,yes,no,no,no,yes,no,no,yes,no,yes,no,no,yes,no,yes,yes,no,no,yes,yes
+Male,57,1,"$60,001 to $90,000",60-90k,retired,VIC,married,4.2,Q3,2.133333333,3,yes,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,yes
+Male,71,1,"Less than $30,000",<30k,sales,VIC,married,2.033333333,Q1,1.733333333,1.8,yes,no,no,yes,yes,no,no,yes,no,no,yes,no,yes,no,no,yes,yes,no,no,yes
+Male,70,8,"$90,001 to $120,000",90-120k,retired,NSW,married,3.966666667,Q3,3.6,2.944444444,yes,yes,no,no,no,no,no,no,yes,yes,no,yes,yes,no,no,yes,no,yes,no,yes
+Male,59,7,"$60,001 to $90,000",60-90k,unemployed,VIC,separated or divorced,1.733333333,Q1,2.533333333,1.766666667,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,yes,yes
+Female,43,2,"$30,001 to $60,000",30-60k,home-duties,VIC,married,3.366666667,Q1,3.866666667,2.95,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no
+Female,47,6,"Less than $30,000",<30k,Clerical or service worker,NSW,married,3.733333333,Q2,4.2,3.033333333,yes,yes,no,no,yes,no,yes,yes,no,yes,yes,no,yes,no,yes,yes,no,yes,yes,no
+Female,32,3,"$60,001 to $90,000",60-90k,Clerical or service worker,VIC,living with a partner,4.133333333,Q3,3.866666667,2.666666667,yes,no,no,no,yes,no,yes,yes,yes,yes,yes,no,no,yes,yes,no,no,no,no,yes
+Male,58,1,NA,NA,transport worker,QLD,single,3.6,Q2,2.533333333,3.166666667,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,30,6,"$60,001 to $90,000",60-90k,Clerical or service worker,VIC,living with a partner,2.3,Q1,2.866666667,1.966666667,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,yes,no,yes
+Female,53,1,"$60,001 to $90,000",60-90k,sales,VIC,married,3.233333333,Q1,3.4,2.043478261,yes,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes
+Female,51,8,"$90,001 to $120,000",90-120k,professional,NSW,living with a partner,4.7,Q4,4.2,4.166666667,yes,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,no,yes,no,yes,no,yes
+Female,48,3,"$90,001 to $120,000",90-120k,manager or administrator,VIC,single,4.033333333,Q3,4.4,2.666666667,yes,yes,no,no,yes,no,yes,yes,yes,yes,no,no,yes,no,no,no,yes,yes,no,yes
+Female,69,8,"$30,001 to $60,000",30-60k,retired,QLD,married,3.733333333,Q2,3.066666667,3.65,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,yes
+Female,61,6,"Less than $30,000",<30k,retired,ACT,married,4.3,Q4,4.066666667,3.633333333,yes,no,no,no,no,no,yes,yes,no,yes,no,no,yes,yes,no,yes,no,yes,no,no
+Female,26,6,"$30,001 to $60,000",30-60k,manager or administrator,QLD,married,2.933333333,Q1,3.666666667,2.4,yes,no,no,yes,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+Male,21,6,"$60,001 to $90,000",60-90k,Clerical or service worker,NSW,single,4.5,Q4,3.8,4.458333333,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no
+Male,43,6,"$60,001 to $90,000",60-90k,Clerical or service worker,WA,living with a partner,4.3,Q4,3.066666667,2.766666667,yes,yes,yes,yes,yes,no,no,yes,no,yes,yes,no,yes,no,no,yes,no,yes,no,yes
+Male,61,3,"Less than $30,000",<30k,retired,QLD,single,2.566666667,Q1,2.533333333,1.666666667,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,yes,no,no,yes,no,no,no,yes
+Female,31,4,"$120,001 to $150,000",>120k,manager or administrator,NSW,married,4.466666667,Q4,3.8,4.176470588,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes
+Female,27,1,"$30,001 to $60,000",30-60k,small business owner,QLD,married,4.433333333,Q4,4.4,3.315789474,yes,yes,no,no,yes,no,yes,no,no,yes,no,no,yes,no,yes,no,no,yes,no,yes
+Female,32,6,NA,NA,manager or administrator,VIC,married,3.4,Q2,3.333333333,2.333333333,yes,no,no,no,yes,no,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,yes
+Male,31,1,"$30,001 to $60,000",30-60k,professional,NSW,married,3.9,Q3,3.066666667,3,yes,no,no,no,yes,no,yes,yes,yes,no,no,no,no,no,yes,no,no,no,no,yes
+Male,26,7,"$30,001 to $60,000",30-60k,manager or administrator,VIC,living with a partner,3.833333333,Q3,3.466666667,3.066666667,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,yes
+Female,33,4,"$60,001 to $90,000",60-90k,Clerical or service worker,NSW,living with a partner,4.2,Q3,3.6,2.724137931,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,yes
+Male,36,8,"$210,001 to $240,000",>120k,manager or administrator,NSW,single,3,Q1,3.133333333,2.448275862,yes,no,no,no,no,no,yes,yes,no,yes,no,yes,yes,no,yes,no,no,no,yes,yes
+Male,40,3,"$90,001 to $120,000",90-120k,professional,NSW,married,2.733333333,Q1,2.2,2.321428571,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no
+Male,22,3,"$60,001 to $90,000",60-90k,Clerical or service worker,WA,single,2.833333333,Q1,2.933333333,2.066666667,yes,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,yes
+Male,48,3,"Less than $30,000",<30k,retired,QLD,living with a partner,4.233333333,Q4,4,3.066666667,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,30,7,"$30,001 to $60,000",30-60k,home-duties,WA,living with a partner,3.8,Q2,4.2,3.526315789,yes,yes,no,no,yes,no,no,no,no,yes,yes,no,yes,yes,no,no,yes,yes,no,yes
+Male,47,1,"Less than $30,000",<30k,NA,VIC,separated or divorced,3.933333333,Q3,3.733333333,3.5,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,yes
+Male,36,6,"$30,001 to $60,000",30-60k,manager or administrator,VIC,single,3.133333333,Q1,3.6,2.518518519,yes,yes,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Female,56,6,"$60,001 to $90,000",60-90k,Clerical or service worker,QLD,married,3.6,Q2,4.4,3.041666667,yes,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,yes,no,yes,no,no
+Female,57,7,"$30,001 to $60,000",30-60k,retired,QLD,separated or divorced,4.466666667,Q4,3.666666667,3.818181818,yes,no,no,yes,yes,yes,no,yes,no,yes,no,no,yes,no,no,yes,no,yes,yes,yes
+Female,60,4,"Less than $30,000",<30k,home-duties,WA,married,4.766666667,Q4,3.666666667,2.8,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,73,6,NA,NA,retired,NSW,married,3.266666667,Q1,3.733333333,2.137931034,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,yes
+Male,52,3,"Less than $30,000",<30k,transport worker,QLD,separated or divorced,4.2,Q3,2.666666667,3.176470588,yes,no,no,yes,yes,no,yes,no,yes,no,no,no,yes,yes,no,yes,no,yes,yes,yes
+Male,52,4,"$90,001 to $120,000",90-120k,professional,QLD,married,1.233333333,Q1,2.933333333,3.1,yes,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,yes
+Female,37,6,"$30,001 to $60,000",30-60k,manager or administrator,ACT,single,4.633333333,Q4,3.8,3.304347826,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes
+Male,76,8,"$60,001 to $90,000",60-90k,professional,NSW,married,3.933333333,Q3,2.6,3.666666667,yes,yes,no,no,no,no,no,no,no,yes,yes,no,yes,no,no,no,no,yes,yes,yes
+Female,74,4,"$30,001 to $60,000",30-60k,retired,VIC,married,3.433333333,Q2,3.933333333,3.555555556,yes,no,no,no,yes,no,no,yes,no,yes,no,no,yes,yes,no,yes,no,yes,yes,yes
+Female,36,3,"$90,001 to $120,000",90-120k,manager or administrator,NSW,married,4.266666667,Q4,3.666666667,3.555555556,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes
+Female,62,8,"Less than $30,000",<30k,professional,NSW,single,4.5,Q4,4.933333333,3.142857143,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes
+Male,38,3,"$60,001 to $90,000",60-90k,professional,QLD,separated or divorced,2.8,Q1,3.733333333,2.133333333,yes,yes,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Female,44,4,"$30,001 to $60,000",30-60k,professional,QLD,separated or divorced,2.733333333,Q1,3.2,2.518518519,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,no,no,no,no,yes,no,no,yes
+Male,43,6,"$90,001 to $120,000",90-120k,professional,QLD,separated or divorced,3.9,Q3,3.8,2.545454545,yes,no,yes,no,no,no,no,yes,no,yes,no,yes,yes,no,no,yes,no,yes,no,yes
+Male,40,3,"$60,001 to $90,000",60-90k,tradesperson,QLD,married,2.266666667,Q1,4.133333333,1.75862069,yes,no,no,yes,no,no,yes,yes,no,yes,yes,yes,no,no,no,yes,no,yes,no,yes
+Female,23,7,"$120,001 to $150,000",>120k,sales,VIC,single,3.933333333,Q3,4.2,3.090909091,yes,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,no,no,no,no,no,yes,yes
+Female,28,7,"$30,001 to $60,000",30-60k,professional,VIC,single,4.266666667,Q4,2.8,3.857142857,yes,yes,yes,yes,yes,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,no,yes,no,yes
+Female,46,3,"$90,001 to $120,000",90-120k,professional,QLD,married,2.033333333,Q1,3.8,1.933333333,yes,yes,no,yes,yes,yes,yes,no,no,yes,yes,yes,no,no,no,no,no,no,no,yes
+Male,58,2,NA,NA,NA,QLD,married,3.666666667,Q2,4.2,3.083333333,yes,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes
+Male,58,1,"Less than $30,000",<30k,retired,VIC,living with a partner,3.733333333,Q2,4.266666667,2.379310345,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes
+Female,41,1,"Less than $30,000",<30k,home-duties,NSW,living with a partner,5,Q4,4.266666667,3.266666667,yes,no,yes,no,no,no,yes,yes,no,yes,yes,no,yes,yes,yes,yes,yes,no,no,yes
+Male,72,7,"$30,001 to $60,000",30-60k,retired,ACT,married,3.833333333,Q3,3.466666667,3.1,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes
+Male,75,3,"Less than $30,000",<30k,retired,VIC,married,3.666666667,Q2,2.666666667,2.529411765,no,yes,no,no,yes,no,no,no,no,no,yes,yes,yes,no,no,yes,no,yes,yes,no
+Female,55,3,"$30,001 to $60,000",30-60k,professional,WA,married,4.533333333,Q4,4.066666667,4.117647059,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no
+Male,46,4,"$90,001 to $120,000",90-120k,professional,VIC,married,4.066666667,Q3,3.733333333,2.466666667,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,yes,yes,no
+Male,55,3,"$90,001 to $120,000",90-120k,Clerical or service worker,VIC,married,3.8,Q2,4.066666667,2.233333333,yes,no,yes,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no
+Male,32,7,"$60,001 to $90,000",60-90k,professional,NSW,married,3.433333333,Q2,2.933333333,2.1,yes,no,no,no,yes,no,yes,yes,no,yes,yes,no,yes,no,yes,no,no,no,no,yes
+Male,31,6,"$120,001 to $150,000",>120k,transport worker,NT,married,3.6,Q2,3.066666667,3.333333333,yes,yes,yes,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,yes,no,no,yes
+Male,19,3,NA,NA,NA,NSW,single,3,Q1,3.133333333,NA,yes,yes,yes,yes,no,no,yes,yes,no,yes,yes,yes,no,no,no,no,no,no,no,yes
+Male,68,7,"$210,001 to $240,000",>120k,professional,VIC,married,4.5,Q4,3.666666667,3.620689655,no,yes,no,yes,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,yes,yes
+Female,66,8,"$30,001 to $60,000",30-60k,retired,NSW,separated or divorced,4.266666667,Q4,3.933333333,2.947368421,yes,no,no,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,yes,yes
+Female,25,7,"$90,001 to $120,000",90-120k,manager or administrator,NSW,living with a partner,3,Q1,3,3,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,39,8,"$120,001 to $150,000",>120k,manager or administrator,VIC,living with a partner,4.533333333,Q4,4.266666667,4.7,yes,yes,yes,no,no,no,yes,yes,yes,yes,no,no,yes,no,no,yes,no,yes,yes,yes
+Male,56,6,"$60,001 to $90,000",60-90k,manager or administrator,QLD,separated or divorced,3.533333333,Q2,4.266666667,2.913043478,yes,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no
+Male,43,4,"$60,001 to $90,000",60-90k,professional,NSW,married,3.166666667,Q1,3.2,2.466666667,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,56,2,"Less than $30,000",<30k,retired,QLD,married,4.2,Q3,3.866666667,2.633333333,yes,no,no,no,yes,no,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,yes
+Male,67,8,"$120,001 to $150,000",>120k,professional,NSW,married,3.9,Q3,3.666666667,3.033333333,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,yes,yes
+Female,26,1,"$30,001 to $60,000",30-60k,Clerical or service worker,VIC,living with a partner,3.766666667,Q2,3.333333333,NA,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,53,1,"Less than $30,000",<30k,NA,VIC,married,3.133333333,Q1,3.533333333,2.892857143,yes,no,no,no,yes,yes,no,no,no,yes,no,no,yes,yes,no,yes,no,no,no,no
+Female,32,7,"$60,001 to $90,000",60-90k,home-duties,NSW,married,4.033333333,Q3,2.866666667,2.6,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,54,3,"$60,001 to $90,000",60-90k,professional,VIC,living with a partner,4.533333333,Q4,4.333333333,3.84,yes,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,yes
+Male,40,6,"$120,001 to $150,000",>120k,tradesperson,VIC,married,4.066666667,Q3,4.133333333,3.363636364,no,no,no,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,no
+Female,24,7,"$60,001 to $90,000",60-90k,NA,VIC,single,3.566666667,Q2,3.4,2.444444444,yes,yes,yes,yes,no,no,no,no,no,yes,no,no,no,no,no,no,yes,no,yes,yes
+Female,39,7,"$90,001 to $120,000",90-120k,professional,NSW,married,3.2,Q1,2.8,2.642857143,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,34,8,"$90,001 to $120,000",90-120k,professional,NSW,married,2.5,Q1,2.466666667,2,yes,no,yes,yes,no,no,no,yes,no,yes,no,yes,yes,no,no,no,no,yes,no,no
+Male,35,8,"$60,001 to $90,000",60-90k,professional,WA,living with a partner,3.833333333,Q3,3,2.6,yes,no,no,no,yes,no,yes,no,no,yes,no,no,yes,no,yes,yes,no,no,yes,yes
+Male,30,7,"$120,001 to $150,000",>120k,professional,NSW,married,4.333333333,Q4,3.266666667,1.666666667,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,no
+Female,34,2,"$60,001 to $90,000",60-90k,Clerical or service worker,VIC,married,2.933333333,Q1,3.133333333,2.433333333,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,56,3,"Less than $30,000",<30k,small business owner,WA,married,4.133333333,Q3,3.533333333,3.8,yes,no,no,no,yes,yes,no,yes,no,no,no,no,yes,no,no,no,no,yes,no,yes
+Female,22,2,"Less than $30,000",<30k,unemployed,QLD,living with a partner,3.8,Q2,3.933333333,2.454545455,yes,no,no,no,yes,no,yes,yes,no,yes,yes,no,yes,no,no,no,no,no,no,yes
+Male,54,3,"$60,001 to $90,000",60-90k,manager or administrator,QLD,married,3.8,Q2,3.6,2.92,yes,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no
+Female,35,7,NA,NA,NA,QLD,NA,3.9,Q3,4.533333333,4.176470588,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes
+Female,72,8,"$30,001 to $60,000",30-60k,professional,WA,widowed,4.633333333,Q4,4.466666667,4.5,yes,no,no,yes,yes,yes,no,yes,no,yes,no,no,yes,yes,no,yes,no,yes,no,yes
+Male,32,1,"$60,001 to $90,000",60-90k,manager or administrator,WA,married,3.933333333,Q3,3.533333333,3.142857143,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,no,yes,yes,no,yes,yes,yes
+Female,41,3,"$60,001 to $90,000",60-90k,home-duties,NSW,married,3.633333333,Q2,3.2,3.142857143,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes
+Male,27,8,"$90,001 to $120,000",90-120k,manager or administrator,WA,living with a partner,3.7,Q2,3.333333333,3.24137931,yes,yes,no,yes,no,no,yes,no,yes,no,no,yes,no,yes,yes,no,no,no,yes,yes
+Male,26,7,"$90,001 to $120,000",90-120k,professional,VIC,single,4.566666667,Q4,4.6,3.304347826,yes,yes,no,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,yes,no,yes,no,no
+Male,61,3,"$90,001 to $120,000",90-120k,retired,VIC,married,3.766666667,Q2,3.8,3.375,yes,yes,no,no,no,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no
+Male,35,6,NA,NA,NA,Tas,single,2.3,Q1,4.133333333,3.9,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,37,7,"$150,001 to $180,000",>120k,manager or administrator,NSW,married,3.233333333,Q1,3.133333333,2.2,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+Male,34,8,"$90,001 to $120,000",90-120k,professional,VIC,married,3.066666667,Q1,3.266666667,2.533333333,yes,yes,no,no,no,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,yes
+Male,53,2,"$30,001 to $60,000",30-60k,tradesperson,VIC,separated or divorced,4.066666667,Q3,3.733333333,3.153846154,yes,no,no,no,yes,no,yes,yes,no,yes,yes,yes,no,no,no,no,no,no,no,yes
+Female,34,2,"$120,001 to $150,000",>120k,small business owner,NSW,married,3.833333333,Q3,3.6,3.08,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,30,3,"$60,001 to $90,000",60-90k,Clerical or service worker,QLD,married,3.6,Q2,3.6,2.862068966,yes,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no
+Male,45,4,"$60,001 to $90,000",60-90k,manager or administrator,NSW,married,4.366666667,Q4,4.066666667,2.307692308,yes,yes,no,yes,yes,no,no,no,no,no,no,no,yes,no,no,yes,no,no,yes,yes
+Female,36,3,"$30,001 to $60,000",30-60k,home-duties,VIC,married,4.2,Q3,3.8,NA,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,yes,no,no
+Female,31,7,"$30,001 to $60,000",30-60k,professional,VIC,single,3.433333333,Q2,3.466666667,2.333333333,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,no,no,no,no,no,yes
+Male,21,2,"$90,001 to $120,000",90-120k,tradesperson,ACT,single,3.533333333,Q2,2.066666667,2.333333333,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,33,6,"$60,001 to $90,000",60-90k,professional,NSW,single,4.266666667,Q4,4.266666667,3.884615385,yes,yes,no,yes,no,no,yes,yes,no,no,yes,no,no,no,no,no,yes,no,no,yes
+Male,51,3,"more than $240,001",>120k,small business owner,NSW,married,3.366666667,Q1,4,2.913043478,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,yes,no,yes,no,no,no,yes
+Female,67,3,"Less than $30,000",<30k,retired,VIC,married,3,Q1,4.266666667,3.909090909,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no
+Female,34,7,"more than $240,001",>120k,professional,WA,married,3.2,Q1,3.466666667,2.454545455,yes,no,no,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,yes
+Male,55,1,NA,NA,Clerical or service worker,VIC,married,3,Q1,3,2,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,51,2,"Less than $30,000",<30k,retired,QLD,separated or divorced,4.1,Q3,3.266666667,3.178571429,yes,no,no,yes,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,yes
+Male,32,8,"$90,001 to $120,000",90-120k,professional,VIC,single,3.6,Q2,3.333333333,2.733333333,yes,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,yes
+Female,36,7,"$30,001 to $60,000",30-60k,NA,VIC,separated or divorced,3.433333333,Q2,3.466666667,2.655172414,yes,yes,no,no,yes,no,yes,no,yes,yes,no,no,yes,no,yes,no,no,no,yes,yes
+Female,34,2,"$60,001 to $90,000",60-90k,manager or administrator,NSW,living with a partner,4.433333333,Q4,3.866666667,2.85,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes
+Male,55,8,"$90,001 to $120,000",90-120k,professional,SA,separated or divorced,3,Q1,4.466666667,2.464285714,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no
+Female,43,6,NA,NA,NA,VIC,separated or divorced,3.4,Q2,3.866666667,2.9,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,yes
+Male,47,7,"$90,001 to $120,000",90-120k,professional,NSW,married,4.633333333,Q4,4.2,3.866666667,yes,no,no,yes,yes,no,yes,yes,no,no,no,no,yes,yes,no,no,no,yes,yes,yes
+Male,62,4,"$90,001 to $120,000",90-120k,NA,Tas,married,3.066666667,Q1,3.2,2.625,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no
+Female,67,3,"Less than $30,000",<30k,retired,QLD,separated or divorced,3.633333333,Q2,3.333333333,NA,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no
+Male,47,3,"$90,001 to $120,000",90-120k,sales,VIC,separated or divorced,4.733333333,Q4,4.6,2.52,yes,no,no,no,yes,no,yes,no,no,yes,no,no,yes,no,no,yes,no,yes,no,yes
+Male,26,8,"$180,001 to $210,000",>120k,Clerical or service worker,QLD,single,3.4,Q2,3.266666667,2.5,yes,yes,yes,yes,yes,no,yes,yes,no,yes,no,no,yes,no,no,yes,no,yes,yes,no
+Male,45,7,"$180,001 to $210,000",>120k,small business owner,QLD,single,3.9,Q3,3.266666667,3.233333333,yes,yes,no,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no
+Female,58,3,"$90,001 to $120,000",90-120k,professional,NSW,separated or divorced,3.633333333,Q2,3.666666667,3.25,yes,no,no,no,no,no,no,yes,no,yes,no,yes,yes,no,no,no,no,no,yes,yes
+Male,74,3,"Less than $30,000",<30k,small business owner,VIC,married,3.433333333,Q2,3.733333333,3.066666667,yes,no,no,yes,yes,no,no,no,no,yes,no,yes,no,yes,no,yes,no,yes,yes,yes
+Male,60,2,"$30,001 to $60,000",30-60k,retired,VIC,living with a partner,3.8,Q2,3.8,2.913043478,yes,no,no,no,yes,no,yes,yes,yes,yes,yes,no,yes,no,no,no,no,no,no,yes
+Male,70,8,"$30,001 to $60,000",30-60k,professional,VIC,married,3.966666667,Q3,4.866666667,2.633333333,yes,no,yes,yes,yes,no,no,no,no,yes,no,no,yes,yes,no,no,no,no,yes,no
+Male,60,2,"$120,001 to $150,000",>120k,manager or administrator,NSW,married,4.4,Q4,4,3.357142857,no,yes,no,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,yes,yes,yes
+Male,45,8,"$60,001 to $90,000",60-90k,small business owner,QLD,married,4.133333333,Q3,4.4,4.052631579,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,yes,no,yes
+Male,59,1,"more than $240,001",>120k,professional,WA,living with a partner,3.9,Q3,4.4,2.291666667,yes,no,no,no,yes,no,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no
+Male,59,2,"$150,001 to $180,000",>120k,manager or administrator,NSW,married,3.466666667,Q2,4.066666667,2.7,yes,no,no,no,yes,no,yes,yes,no,no,no,yes,no,no,no,no,yes,no,no,yes
+Female,43,1,"$60,001 to $90,000",60-90k,home-duties,VIC,married,3.466666667,Q2,3.333333333,3.75,yes,yes,no,no,yes,no,yes,yes,no,yes,no,no,yes,yes,yes,no,no,no,yes,yes
+Female,68,2,"$30,001 to $60,000",30-60k,retired,VIC,living with a partner,5,Q4,3.6,4.766666667,yes,yes,yes,no,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,yes
+Male,56,8,"$30,001 to $60,000",30-60k,retired,VIC,separated or divorced,3.333333333,Q1,3.333333333,3.375,yes,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes
+Female,38,3,"Less than $30,000",<30k,home-duties,NSW,married,3.6,Q2,3.4,2.166666667,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no
+Male,57,4,"$120,001 to $150,000",>120k,manager or administrator,VIC,married,3.233333333,Q1,2.866666667,3.666666667,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no
+Female,36,7,"$90,001 to $120,000",90-120k,manager or administrator,ACT,married,2.566666667,Q1,3.4,2.227272727,yes,yes,no,yes,no,no,yes,yes,no,yes,no,yes,yes,yes,no,no,no,yes,yes,yes
+Female,63,6,"$60,001 to $90,000",60-90k,retired,NSW,married,4.3,Q4,2.933333333,3.692307692,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,no,no,no,yes
+Female,30,8,"$150,001 to $180,000",>120k,manager or administrator,QLD,living with a partner,3.633333333,Q2,2.933333333,2.842105263,yes,no,no,yes,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,yes
+Male,68,7,"$60,001 to $90,000",60-90k,manager or administrator,SA,married,4.066666667,Q3,3.266666667,2.2,yes,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,yes
+Female,52,7,"$30,001 to $60,000",30-60k,professional,NSW,single,4.466666667,Q4,3.466666667,3.95,yes,no,yes,yes,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes
+Female,56,6,NA,NA,professional,NSW,separated or divorced,4.9,Q4,4.266666667,3.884615385,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Female,21,3,"Less than $30,000",<30k,NA,NSW,living with a partner,3.333333333,Q1,3.933333333,2.36,yes,yes,no,no,yes,no,yes,no,no,yes,yes,no,yes,no,yes,no,no,yes,no,yes
+Female,67,3,"$30,001 to $60,000",30-60k,NA,QLD,married,3.366666667,Q1,3.333333333,2.137931034,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,yes,no,yes
+Female,19,1,"Less than $30,000",<30k,unemployed,QLD,living with a partner,3,Q1,3.066666667,2.714285714,yes,no,no,no,no,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,no
+Male,31,7,"$150,001 to $180,000",>120k,sales,NSW,married,2.9,Q1,1.933333333,2.571428571,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,no
+Female,45,6,"$30,001 to $60,000",30-60k,home-duties,VIC,separated or divorced,4.533333333,Q4,4.133333333,3.409090909,no,no,no,yes,no,no,yes,yes,no,no,no,no,yes,yes,no,no,no,no,yes,yes
+Female,23,3,"$30,001 to $60,000",30-60k,home-duties,NSW,living with a partner,4.366666667,Q4,3.2,3.619047619,yes,no,no,yes,yes,no,yes,yes,no,yes,no,no,yes,no,no,yes,no,yes,no,yes
+Male,60,8,"$120,001 to $150,000",>120k,small business owner,NSW,married,4.166666667,Q3,3.933333333,3.08,yes,no,no,yes,yes,no,no,yes,no,no,no,no,yes,no,no,yes,no,yes,yes,yes
+Male,62,2,NA,NA,small business owner,WA,married,3.8,Q2,3.466666667,3.3,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,no,yes,no,no,yes
+Male,19,3,"$90,001 to $120,000",90-120k,sales,VIC,single,3.666666667,Q2,3.2,3.259259259,yes,no,no,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Female,56,3,"$30,001 to $60,000",30-60k,manager or administrator,NSW,separated or divorced,4.466666667,Q4,4.333333333,3.956521739,yes,yes,no,no,yes,no,no,no,yes,yes,no,no,no,yes,yes,no,yes,yes,no,yes
+Male,54,3,"$30,001 to $60,000",30-60k,transport worker,NSW,married,4.566666667,Q4,4.4,4.076923077,yes,no,no,no,yes,no,no,yes,no,yes,no,no,yes,no,yes,yes,yes,no,no,yes
+Male,20,3,"Less than $30,000",<30k,NA,NSW,single,4.033333333,Q3,3.066666667,4.3,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,yes,yes
+Male,41,8,"$120,001 to $150,000",>120k,professional,SA,married,3.433333333,Q2,3.066666667,2.44,yes,no,no,no,yes,no,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,yes
+Female,35,1,"$30,001 to $60,000",30-60k,NA,QLD,married,4.333333333,Q4,3.933333333,3.25,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,yes
+Female,57,6,"$90,001 to $120,000",90-120k,manager or administrator,NSW,married,3.833333333,Q3,3.333333333,2.653846154,yes,no,no,no,no,no,yes,no,no,yes,no,no,yes,no,no,yes,no,no,no,yes
+Female,32,8,"$90,001 to $120,000",90-120k,professional,VIC,single,4.2,Q3,4.333333333,3.416666667,yes,no,no,yes,yes,no,yes,no,yes,no,no,no,yes,no,no,yes,no,no,yes,yes
+Female,65,8,"$60,001 to $90,000",60-90k,professional,NSW,separated or divorced,3.466666667,Q2,4.266666667,3.3,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,yes
+Female,39,6,"$30,001 to $60,000",30-60k,Clerical or service worker,QLD,single,4.366666667,Q4,3.866666667,3.444444444,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,yes,no,yes,no,no,no,yes,yes
+Male,63,3,"$30,001 to $60,000",30-60k,transport worker,QLD,married,3,Q1,3.6,3,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Male,64,8,"$30,001 to $60,000",30-60k,manager or administrator,VIC,widowed,3.933333333,Q3,4.733333333,3.75,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,no,yes,yes,no,no,no,yes
+Female,63,1,"$30,001 to $60,000",30-60k,sales,QLD,married,3.6,Q2,3.333333333,2.458333333,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Male,36,3,"$150,001 to $180,000",>120k,manager or administrator,ACT,living with a partner,3.4,Q2,4.133333333,2.88,yes,yes,no,yes,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,yes,no
+Female,42,6,"$30,001 to $60,000",30-60k,NA,QLD,married,3.2,Q1,4.4,2.433333333,yes,no,no,yes,yes,no,no,yes,no,yes,no,no,yes,no,no,yes,no,no,no,yes
+Male,41,3,"Less than $30,000",<30k,small business owner,NSW,single,3,Q1,2.6,2.952380952,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Female,61,6,"$30,001 to $60,000",30-60k,retired,NSW,separated or divorced,2.633333333,Q1,3.133333333,NA,yes,yes,no,yes,yes,no,yes,yes,no,yes,no,no,yes,yes,no,no,yes,no,no,yes
+Male,31,6,"Less than $30,000",<30k,sales,NSW,single,4.033333333,Q3,3.733333333,3.433333333,no,no,no,no,no,no,yes,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no
+Male,45,7,"$90,001 to $120,000",90-120k,professional,NSW,single,3.733333333,Q2,3.066666667,2.2,yes,yes,no,yes,yes,no,yes,yes,no,yes,yes,no,no,no,yes,yes,no,no,yes,yes
+Male,38,4,"$90,001 to $120,000",90-120k,sales,NSW,married,2.166666667,Q1,2.533333333,2.172413793,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Male,25,7,"$60,001 to $90,000",60-90k,small business owner,VIC,single,3.6,Q2,3.333333333,3.4,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,no,no,no,no,no,yes
+Female,26,2,"Less than $30,000",<30k,sales,VIC,single,4.566666667,Q4,3.933333333,3.222222222,yes,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,yes,yes,yes,yes
+Male,22,3,"$60,001 to $90,000",60-90k,manager or administrator,VIC,single,3.166666667,Q1,3.066666667,2.8,yes,no,no,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,yes
+Female,67,1,"Less than $30,000",<30k,retired,VIC,married,3.733333333,Q2,3.6,3.666666667,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes
+Male,43,6,"$30,001 to $60,000",30-60k,NA,NSW,separated or divorced,3,Q1,3.266666667,2.611111111,yes,yes,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,yes
+Female,56,4,"$60,001 to $90,000",60-90k,professional,NSW,married,3.933333333,Q3,4.333333333,2.62962963,yes,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes
+Female,31,4,"$90,001 to $120,000",90-120k,sales,NSW,single,3.533333333,Q2,3.733333333,2.277777778,yes,no,no,yes,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,yes
+Male,50,6,"$120,001 to $150,000",>120k,manager or administrator,VIC,married,2.133333333,Q1,2.8,2.2,yes,yes,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,yes,no,no,yes
+Male,20,7,"$30,001 to $60,000",30-60k,unemployed,VIC,single,4,Q3,3.666666667,NA,yes,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Female,55,3,"$30,001 to $60,000",30-60k,sales,VIC,widowed,4.633333333,Q4,3.2,3.571428571,yes,yes,no,no,yes,no,yes,yes,yes,yes,yes,no,yes,yes,no,yes,no,yes,yes,yes
+Female,25,8,"$90,001 to $120,000",90-120k,professional,NSW,married,4.433333333,Q4,4.333333333,3.454545455,yes,no,no,no,no,no,yes,no,no,yes,no,yes,yes,no,no,yes,no,yes,yes,yes
+Male,52,8,"$90,001 to $120,000",90-120k,professional,NSW,married,3.2,Q1,3.066666667,2.481481481,yes,no,no,no,no,no,no,yes,no,yes,no,yes,yes,no,yes,no,no,yes,yes,yes
+Female,41,3,"$60,001 to $90,000",60-90k,small business owner,NSW,separated or divorced,3.166666667,Q1,3,4,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Female,63,7,"$30,001 to $60,000",30-60k,retired,QLD,living with a partner,4.566666667,Q4,4.733333333,3.428571429,yes,no,no,yes,yes,no,no,yes,no,no,no,no,yes,no,no,yes,no,yes,no,no
+Female,63,6,"Less than $30,000",<30k,sales,NSW,separated or divorced,3.8,Q2,4.266666667,3.888888889,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no
+Female,61,1,"$30,001 to $60,000",30-60k,sales,ACT,married,3.9,Q3,4.066666667,3.35,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,yes,no
+Female,37,4,"$90,001 to $120,000",90-120k,manager or administrator,QLD,married,2.933333333,Q1,3,2.24,no,no,no,yes,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,no,yes,yes
+Male,38,3,"$90,001 to $120,000",90-120k,tradesperson,NSW,living with a partner,3.5,Q2,2.866666667,3.4,yes,no,no,yes,yes,no,no,yes,no,yes,yes,no,yes,no,no,no,no,yes,yes,yes
+Female,32,8,"$60,001 to $90,000",60-90k,professional,WA,single,3.633333333,Q2,4.333333333,2.541666667,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no
+Male,33,3,"$60,001 to $90,000",60-90k,manager or administrator,QLD,married,4.433333333,Q4,3.733333333,3.888888889,yes,no,yes,yes,yes,no,yes,no,no,no,no,no,yes,yes,no,no,no,yes,no,yes
+Female,57,2,"Less than $30,000",<30k,retired,NSW,married,3.766666667,Q2,3.6,3.464285714,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,68,2,"Less than $30,000",<30k,retired,QLD,married,4.233333333,Q4,3.866666667,3.192307692,yes,no,no,no,yes,no,no,yes,yes,no,no,no,yes,yes,no,yes,no,yes,no,yes
+Male,53,2,"$90,001 to $120,000",90-120k,professional,NSW,living with a partner,2.533333333,Q1,4.466666667,2.793103448,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Female,48,6,"$60,001 to $90,000",60-90k,manager or administrator,VIC,married,3.066666667,Q1,3.2,2.269230769,no,no,no,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,no,no,no,yes,yes
+Female,23,7,"Less than $30,000",<30k,unemployed,VIC,single,3.533333333,Q2,3.2,2.607142857,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,26,3,"$30,001 to $60,000",30-60k,sales,SA,single,3.5,Q2,3.333333333,2.535714286,yes,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no
+Male,35,3,"$30,001 to $60,000",30-60k,manager or administrator,NSW,separated or divorced,3.633333333,Q2,4.133333333,2.72,yes,yes,no,no,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,no
+Male,50,6,"$30,001 to $60,000",30-60k,manager or administrator,ACT,married,3.633333333,Q2,4.466666667,2.846153846,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,yes,yes
+Female,37,2,"$30,001 to $60,000",30-60k,home-duties,SA,married,4.133333333,Q3,4.2,4,yes,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,yes,no,yes,yes,yes
+Female,44,6,"Less than $30,000",<30k,NA,WA,married,4.333333333,Q4,4.8,4.9,yes,yes,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,no,no,yes
+Male,39,4,"$30,001 to $60,000",30-60k,professional,QLD,living with a partner,4,Q3,2.333333333,2.4,yes,no,no,no,yes,no,yes,no,no,yes,no,no,no,yes,no,yes,no,yes,no,yes
+Male,31,8,"$60,001 to $90,000",60-90k,transport worker,VIC,married,4.066666667,Q3,3.933333333,3.133333333,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,39,4,"$30,001 to $60,000",30-60k,transport worker,QLD,married,3.366666667,Q1,3.733333333,3,yes,no,no,no,no,no,yes,yes,no,no,no,no,yes,no,no,yes,no,no,no,yes
+Male,56,7,"$90,001 to $120,000",90-120k,manager or administrator,VIC,living with a partner,3.466666667,Q2,4,3.416666667,yes,no,no,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,yes
+Female,29,8,"$90,001 to $120,000",90-120k,professional,VIC,married,3.3,Q1,4.4,2.409090909,yes,yes,no,no,no,no,yes,no,no,yes,no,yes,yes,no,no,no,no,yes,no,yes
+Male,55,6,"$90,001 to $120,000",90-120k,manager or administrator,SA,married,1.766666667,Q1,2.933333333,3.5,yes,yes,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,no,no,yes
+Female,55,2,"$30,001 to $60,000",30-60k,Clerical or service worker,WA,single,4,Q3,3.933333333,3.769230769,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,yes
+Male,63,4,"$60,001 to $90,000",60-90k,retired,VIC,married,3.333333333,Q1,3.266666667,2.321428571,yes,no,no,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,yes,no,yes
+Female,57,2,"$30,001 to $60,000",30-60k,retired,SA,married,3.8,Q2,4.333333333,2.842105263,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,yes,no,no,no,no,no
+Female,49,3,"$30,001 to $60,000",30-60k,labourer,NSW,separated or divorced,3.2,Q1,3.533333333,2.5,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,65,6,"Less than $30,000",<30k,Clerical or service worker,QLD,married,3.466666667,Q2,3.8,2.529411765,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,yes,yes,no,no,no,yes
+Female,49,4,"$30,001 to $60,000",30-60k,professional,NSW,married,3.866666667,Q3,4,2.4,yes,no,no,yes,yes,no,yes,yes,no,no,no,no,yes,yes,no,no,no,no,yes,yes
+Female,44,2,"$60,001 to $90,000",60-90k,Clerical or service worker,QLD,married,4.5,Q4,4.333333333,2.75,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,yes,no,no,yes,yes
+Female,41,3,"Less than $30,000",<30k,NA,NSW,separated or divorced,4.1,Q3,3.6,3.083333333,yes,no,no,yes,yes,no,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,no,yes
+Female,32,6,"$60,001 to $90,000",60-90k,manager or administrator,VIC,single,3.866666667,Q3,4.4,2.85,yes,no,no,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,yes
+Female,32,6,"$120,001 to $150,000",>120k,NA,NSW,married,3.866666667,Q3,4.333333333,3.066666667,yes,no,no,no,no,no,yes,yes,no,no,yes,yes,yes,yes,yes,no,no,no,no,no
+Male,19,7,"$30,001 to $60,000",30-60k,unemployed,NSW,single,2.1,Q1,3.8,2,yes,yes,no,no,yes,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,yes
+Female,31,3,"$60,001 to $90,000",60-90k,professional,VIC,single,3.733333333,Q2,3.866666667,3.642857143,yes,no,no,yes,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,yes,yes
+Male,51,3,"$60,001 to $90,000",60-90k,sales,WA,married,2.2,Q1,2.4,2.310344828,no,no,no,yes,yes,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,yes
+Female,48,7,"$60,001 to $90,000",60-90k,small business owner,NSW,married,3.9,Q3,3.8,2.481481481,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no,yes,yes,no,no,no,yes,no,no,yes
+Male,36,7,"$30,001 to $60,000",30-60k,professional,VIC,single,3.566666667,Q2,4,2.633333333,yes,yes,no,yes,no,no,yes,yes,no,yes,no,yes,yes,yes,yes,yes,no,yes,no,yes
+Female,51,2,"$30,001 to $60,000",30-60k,manager or administrator,QLD,married,3.833333333,Q3,3.333333333,4.076923077,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no
+Male,38,1,"Less than $30,000",<30k,manager or administrator,QLD,married,4.466666667,Q4,3.733333333,3.633333333,yes,no,yes,yes,yes,no,yes,yes,no,yes,no,no,no,yes,no,yes,yes,yes,no,no
+Male,30,6,"$90,001 to $120,000",90-120k,unemployed,QLD,married,3.4,Q2,4.333333333,2.857142857,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,no,no,no,yes,yes,yes,no,yes
+Female,56,3,"$30,001 to $60,000",30-60k,sales,VIC,separated or divorced,4.2,Q3,4.666666667,4.041666667,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,20,7,"$30,001 to $60,000",30-60k,sales,SA,single,4.033333333,Q3,3.666666667,2.52173913,yes,no,no,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,no,yes,no,no,yes
+Female,43,1,"Less than $30,000",<30k,Clerical or service worker,QLD,single,3.233333333,Q1,4.4,NA,yes,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,yes,no,yes,yes
+Male,30,3,"$90,001 to $120,000",90-120k,manager or administrator,VIC,single,3.4,Q2,3.6,2.192307692,yes,yes,no,yes,no,no,yes,no,no,yes,yes,yes,yes,yes,no,yes,no,no,no,yes
+Female,30,7,"$60,001 to $90,000",60-90k,Clerical or service worker,VIC,living with a partner,3.6,Q2,3.066666667,3.4,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,yes,yes,no,no,no,no,no
+Female,29,6,"$60,001 to $90,000",60-90k,Clerical or service worker,VIC,living with a partner,4.033333333,Q3,4.666666667,3.074074074,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,48,6,"$30,001 to $60,000",30-60k,small business owner,QLD,separated or divorced,3.233333333,Q1,3.533333333,3.166666667,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+Female,61,1,"$30,001 to $60,000",30-60k,manager or administrator,VIC,separated or divorced,4.3,Q4,4.133333333,NA,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,32,2,"$60,001 to $90,000",60-90k,labourer,QLD,living with a partner,3.7,Q2,3.666666667,2.5,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Female,57,1,"Less than $30,000",<30k,NA,VIC,single,3.933333333,Q3,3.733333333,2.88,yes,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,no,yes,yes,no,no,yes,yes
+Male,45,6,"$30,001 to $60,000",30-60k,Clerical or service worker,SA,married,3.466666667,Q2,3.066666667,2.666666667,yes,yes,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes
+Female,62,2,"Less than $30,000",<30k,retired,VIC,single,4.866666667,Q4,3.066666667,3.9,yes,yes,yes,yes,no,no,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+Female,34,7,NA,NA,small business owner,NSW,single,3.566666667,Q2,3.066666667,2.75,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,yes,no,no,no,yes,yes
+Female,48,2,"$30,001 to $60,000",30-60k,Clerical or service worker,NSW,married,4.3,Q4,3.066666667,3.533333333,yes,yes,no,no,yes,no,no,no,no,no,yes,no,yes,no,no,no,yes,yes,no,yes
+Male,61,1,"$90,001 to $120,000",90-120k,Clerical or service worker,VIC,married,3.166666667,Q1,3.266666667,2.633333333,yes,no,no,no,no,no,no,yes,no,yes,no,yes,no,no,no,no,yes,no,no,yes
+Male,28,3,"$30,001 to $60,000",30-60k,professional,VIC,married,3.4,Q2,3.933333333,2.4,yes,yes,no,no,yes,no,no,no,no,yes,no,yes,yes,no,no,yes,no,no,yes,no
+Female,25,7,"Less than $30,000",<30k,NA,VIC,single,4.233333333,Q4,4,3.6875,yes,yes,no,yes,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,no,yes,yes,yes
+Male,33,1,"$60,001 to $90,000",60-90k,sales,VIC,living with a partner,3.6,Q2,3.466666667,2.583333333,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,yes
+Male,25,8,"$60,001 to $90,000",60-90k,professional,VIC,married,3.766666667,Q2,4,2.44,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Male,72,6,NA,NA,NA,SA,married,4.333333333,Q4,4.133333333,2.807692308,yes,no,no,yes,no,no,yes,no,yes,yes,no,no,no,yes,no,yes,no,yes,yes,yes
+Male,31,6,"$30,001 to $60,000",30-60k,tradesperson,QLD,married,3.433333333,Q2,3.8,2.769230769,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,no,no,yes,no,yes,no,no,yes
+Male,40,6,"$60,001 to $90,000",60-90k,tradesperson,NSW,single,3.833333333,Q3,3.666666667,2.481481481,yes,no,yes,no,yes,no,yes,yes,no,no,no,no,no,no,no,yes,no,yes,no,yes
+Female,65,2,"Less than $30,000",<30k,retired,VIC,separated or divorced,4.633333333,Q4,4.266666667,3.833333333,yes,no,no,no,yes,no,no,yes,no,yes,no,no,yes,yes,no,yes,no,yes,no,no
+Male,68,3,"$30,001 to $60,000",30-60k,retired,NSW,married,4.133333333,Q3,3.266666667,3.5,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,yes
+Female,74,7,"$60,001 to $90,000",60-90k,manager or administrator,ACT,widowed,3.633333333,Q2,3.333333333,3.307692308,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,yes,no,no,no,yes
+Male,60,8,"Less than $30,000",<30k,professional,QLD,married,3.866666667,Q3,4.733333333,3.533333333,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,yes
+Female,35,4,"$30,001 to $60,000",30-60k,Clerical or service worker,NSW,married,3.233333333,Q1,3.266666667,NA,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,60,6,"$30,001 to $60,000",30-60k,transport worker,NSW,separated or divorced,3.7,Q2,3.533333333,2.206896552,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,no,no,yes,no,no,no,no,no,yes
+Male,40,8,"$120,001 to $150,000",>120k,professional,NSW,single,3.2,Q1,2.666666667,2.692307692,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,63,4,"$60,001 to $90,000",60-90k,home-duties,WA,married,3.966666667,Q3,4.6,3.227272727,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,yes,yes,no,yes,no,yes
+Male,60,6,"$90,001 to $120,000",90-120k,retired,NSW,married,3.233333333,Q1,3.533333333,2.833333333,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,no,yes,no,no,no,yes,yes,no
+Female,35,1,"$30,001 to $60,000",30-60k,professional,WA,living with a partner,3.133333333,Q1,3.866666667,2.636363636,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes
+Male,57,4,"$30,001 to $60,000",30-60k,small business owner,QLD,living with a partner,3.166666667,Q1,3.2,1.961538462,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,yes,no,yes,no,no,yes,yes,yes
+Female,29,7,NA,NA,unemployed,NSW,married,3.566666667,Q2,3.066666667,2.740740741,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no
+Female,22,7,NA,NA,NA,NSW,single,2.933333333,Q1,3.466666667,2.24,yes,no,no,yes,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,yes,yes
+Male,25,8,"$120,001 to $150,000",>120k,manager or administrator,VIC,married,3.533333333,Q2,2.8,3.4,no,no,yes,yes,yes,no,yes,yes,no,no,yes,no,no,yes,no,no,yes,no,yes,no
+Female,42,1,"$150,001 to $180,000",>120k,professional,WA,living with a partner,3.166666667,Q1,3.333333333,3,yes,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes
+Male,19,3,"$120,001 to $150,000",>120k,professional,NSW,single,3.3,Q1,3.466666667,3.8,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Male,46,7,"Less than $30,000",<30k,tradesperson,VIC,separated or divorced,3.7,Q2,3.533333333,3.071428571,yes,no,no,yes,yes,yes,no,yes,yes,yes,yes,no,yes,no,no,no,yes,no,yes,yes
+Male,61,6,"$90,001 to $120,000",90-120k,professional,VIC,married,3.866666667,Q3,2.333333333,2.8,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,no,no,no,no,no,no,yes
+Male,22,7,"$90,001 to $120,000",90-120k,Clerical or service worker,NSW,single,3.866666667,Q3,4,3.954545455,yes,no,yes,yes,no,no,yes,yes,no,no,no,yes,yes,no,no,no,no,yes,yes,yes
+Female,42,8,NA,NA,professional,VIC,single,3.566666667,Q2,3.933333333,3.555555556,yes,yes,no,no,no,no,yes,no,no,yes,yes,no,no,no,no,yes,no,yes,no,yes
+Female,22,7,NA,NA,NA,VIC,single,4.166666667,Q3,3.533333333,3.233333333,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,yes,no,yes
+Female,23,4,"$60,001 to $90,000",60-90k,NA,ACT,living with a partner,4.533333333,Q4,3.866666667,3.366666667,yes,yes,no,yes,yes,no,yes,yes,no,no,yes,no,no,yes,no,no,no,no,no,yes
+Female,60,1,"Less than $30,000",<30k,home-duties,WA,married,4.2,Q3,3.2,4.454545455,yes,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,yes
+Male,53,7,"$90,001 to $120,000",90-120k,small business owner,VIC,separated or divorced,4.333333333,Q4,4.466666667,3.428571429,yes,no,no,no,yes,yes,yes,yes,yes,yes,no,no,yes,yes,no,yes,no,yes,yes,yes
+Male,44,2,"$60,001 to $90,000",60-90k,professional,VIC,single,4.633333333,Q4,4.4,3,yes,no,no,no,yes,yes,no,no,no,no,no,no,yes,yes,no,yes,no,yes,yes,yes
+Male,56,8,"$90,001 to $120,000",90-120k,professional,VIC,separated or divorced,3.8,Q2,3.266666667,3.47826087,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,yes,no,yes,yes
+Female,45,4,"$30,001 to $60,000",30-60k,manager or administrator,NSW,single,4.266666667,Q4,4.4,3.133333333,yes,no,no,yes,yes,yes,no,yes,yes,yes,no,no,yes,yes,yes,yes,no,no,no,yes
+Male,63,8,"$120,001 to $150,000",>120k,retired,SA,married,3.5,Q2,3.6,2.65,no,yes,no,no,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,no,yes
+Female,55,1,"Less than $30,000",<30k,sales,QLD,widowed,3.933333333,Q3,4.466666667,3.769230769,yes,yes,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no
+Male,24,6,"$90,001 to $120,000",90-120k,tradesperson,Tas,living with a partner,3.566666667,Q2,3.266666667,2.4,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,yes
+Male,31,3,"$60,001 to $90,000",60-90k,transport worker,QLD,living with a partner,5,Q4,3.266666667,3.833333333,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no
+Male,47,6,"$30,001 to $60,000",30-60k,manager or administrator,NSW,separated or divorced,3.866666667,Q3,3.933333333,3.555555556,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Female,63,8,"$30,001 to $60,000",30-60k,professional,QLD,separated or divorced,4.3,Q4,4.333333333,3.347826087,yes,no,no,no,no,yes,no,yes,no,no,no,no,yes,yes,no,yes,no,no,no,yes
+Female,38,3,"$60,001 to $90,000",60-90k,Clerical or service worker,VIC,married,2.5,Q1,3.866666667,2.5,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,yes,no,yes,yes,no,yes,no,yes
+Female,34,7,"$30,001 to $60,000",30-60k,professional,NSW,married,4.066666667,Q3,3.733333333,3.107142857,yes,no,no,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes
+Male,57,8,"$120,001 to $150,000",>120k,manager or administrator,VIC,married,4.666666667,Q4,4.866666667,4.615384615,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes,yes,no,yes,no,yes,yes,no
+Female,27,7,"$90,001 to $120,000",90-120k,manager or administrator,QLD,single,4.1,Q3,3.733333333,3,yes,no,no,yes,yes,no,yes,yes,no,no,yes,yes,yes,yes,no,no,no,no,yes,yes
+Male,39,2,"Less than $30,000",<30k,labourer,Tas,married,4.633333333,Q4,4.066666667,4.133333333,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,61,3,"$30,001 to $60,000",30-60k,manager or administrator,NSW,living with a partner,3.933333333,Q3,3.933333333,2.95,yes,no,no,no,yes,no,no,yes,no,yes,no,no,yes,no,yes,no,no,no,no,yes
+Male,28,7,"$90,001 to $120,000",90-120k,professional,QLD,living with a partner,4.133333333,Q3,3.6,3.033333333,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no
+Female,49,8,"$120,001 to $150,000",>120k,professional,NSW,married,3.766666667,Q2,3.8,2.620689655,yes,no,yes,yes,no,no,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no
+Female,52,3,"$150,001 to $180,000",>120k,professional,NSW,married,3.533333333,Q2,4.4,2.827586207,yes,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,yes
+Male,41,8,"$60,001 to $90,000",60-90k,professional,QLD,married,4.266666667,Q4,3,1.866666667,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no
+Female,38,6,"$30,001 to $60,000",30-60k,home-duties,NSW,married,1.666666667,Q1,2.266666667,1.6,yes,no,no,no,yes,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,yes
+Male,40,8,"$150,001 to $180,000",>120k,professional,ACT,separated or divorced,3.266666667,Q1,3.6,1.944444444,yes,no,no,yes,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,yes,yes
+Female,62,1,"$60,001 to $90,000",60-90k,labourer,NSW,married,4.4,Q4,3.6,3.148148148,yes,no,no,no,no,no,yes,no,no,no,yes,yes,yes,no,no,no,no,no,no,yes
+Female,24,7,"$60,001 to $90,000",60-90k,NA,VIC,single,3.9,Q3,3.066666667,3.2,yes,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Male,28,7,"$90,001 to $120,000",90-120k,manager or administrator,NSW,married,1.533333333,Q1,2.266666667,1.392857143,yes,yes,no,no,no,no,yes,no,no,yes,yes,yes,no,no,no,no,no,no,no,yes
+Female,36,7,"$180,001 to $210,000",>120k,professional,NSW,married,3.6,Q2,4.066666667,4.222222222,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,36,3,"$60,001 to $90,000",60-90k,home-duties,WA,married,3.3,Q1,4,2.727272727,yes,no,no,no,yes,no,yes,yes,yes,yes,no,no,yes,no,no,yes,yes,no,no,yes
+Male,30,7,"$120,001 to $150,000",>120k,labourer,VIC,married,3.966666667,Q3,3.933333333,2.217391304,yes,yes,yes,yes,yes,no,yes,yes,no,yes,yes,yes,yes,no,yes,no,no,yes,no,yes
+Male,56,3,"$120,001 to $150,000",>120k,professional,WA,married,3.6,Q2,3.933333333,3.714285714,yes,no,no,no,no,no,yes,no,no,yes,yes,no,yes,no,no,no,no,no,yes,yes
+Female,61,4,"$90,001 to $120,000",90-120k,professional,NSW,living with a partner,4,Q3,3.6,3.333333333,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,yes,yes,yes
+Female,47,4,"$30,001 to $60,000",30-60k,Clerical or service worker,SA,married,3.9,Q3,2.8,3.3125,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,yes,no,no,no,no,yes,no,no,no
+Female,56,3,"$180,001 to $210,000",>120k,small business owner,QLD,married,4.166666667,Q3,4.4,3.620689655,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no
+Female,29,7,"$60,001 to $90,000",60-90k,Clerical or service worker,VIC,living with a partner,2.133333333,Q1,3.4,2.333333333,yes,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no
+Male,18,1,"Less than $30,000",<30k,unemployed,VIC,single,3.166666667,Q1,4.333333333,3.933333333,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,32,7,"Less than $30,000",<30k,professional,SA,single,4.6,Q4,4.666666667,4.233333333,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+Female,35,3,NA,NA,home-duties,NSW,married,3.366666667,Q1,4,2.035714286,yes,no,yes,no,no,no,yes,no,no,yes,no,no,yes,yes,yes,yes,yes,no,no,yes
+Female,24,2,"$90,001 to $120,000",90-120k,Clerical or service worker,VIC,single,4.2,Q3,3.266666667,3.19047619,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,yes,yes,yes
+Male,30,7,"$60,001 to $90,000",60-90k,professional,VIC,married,3.733333333,Q2,2.933333333,2.892857143,yes,no,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,no,no,no,no,yes,yes
+Female,63,4,NA,NA,NA,VIC,separated or divorced,3.066666667,Q1,3.933333333,2.266666667,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes
+Female,26,4,"Less than $30,000",<30k,home-duties,Tas,NA,4.2,Q3,4.533333333,3.666666667,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,62,7,"$90,001 to $120,000",90-120k,Clerical or service worker,NSW,married,3.966666667,Q3,4.6,3.647058824,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,yes,yes
+Male,69,3,"$30,001 to $60,000",30-60k,manager or administrator,NSW,married,3.733333333,Q2,4.333333333,2.6,yes,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,no
+Male,40,3,"$60,001 to $90,000",60-90k,professional,WA,living with a partner,4.166666667,Q3,3.8,2.9,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,55,NA,"$30,001 to $60,000",30-60k,retired,WA,separated or divorced,3.866666667,Q3,3.133333333,3.566666667,yes,yes,no,no,yes,yes,yes,yes,no,yes,yes,no,no,no,no,no,no,yes,no,no
+Male,60,1,"$60,001 to $90,000",60-90k,small business owner,SA,married,4.4,Q4,3.666666667,3.033333333,yes,no,no,no,yes,yes,no,no,no,yes,no,no,yes,yes,yes,yes,yes,yes,no,yes
+Male,65,3,"$120,001 to $150,000",>120k,professional,NSW,living with a partner,3.566666667,Q2,3.933333333,2.566666667,yes,yes,yes,no,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,yes
+Male,51,3,"$30,001 to $60,000",30-60k,manager or administrator,VIC,separated or divorced,2.366666667,Q1,3.4,2.565217391,yes,yes,no,no,yes,no,yes,yes,no,no,yes,no,yes,yes,no,yes,no,no,yes,yes
+Male,58,4,"$60,001 to $90,000",60-90k,small business owner,WA,living with a partner,4.4,Q4,3.866666667,3.5,yes,no,no,no,yes,no,yes,no,yes,yes,no,no,yes,yes,no,yes,no,yes,yes,no
+Male,41,8,"$60,001 to $90,000",60-90k,professional,QLD,married,3.866666667,Q3,3.4,2.555555556,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,yes
+Female,42,3,NA,NA,professional,VIC,living with a partner,4,Q3,3.133333333,4.7,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Female,32,6,"$120,001 to $150,000",>120k,manager or administrator,WA,living with a partner,2.333333333,Q1,3.6,2.727272727,yes,yes,yes,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,yes
